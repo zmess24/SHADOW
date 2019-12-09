@@ -20,17 +20,17 @@
 
 --- 
 
-## 1. Installation 
+# Installation 
 
 Please check your version of OS X before you begin. (Click the Apple icon in the upper left corner and choose About this Mac). The following installation procedures should work for Mavericks, Yosemite, or Mojave. All of the below commands need to be entered via the command line.
 
-### A. Xcode 
+### 1. Xcode 
 
 ```
 xcode-select --install
 ```
 
-### B. Homebrew
+### 2. Homebrew
 
 #### Install Homebrew
 
@@ -50,13 +50,13 @@ brew doctor
 
 ```
 
-### C. Node.js
+### 3. Node.js
 
 You will need Node to run this application. To download the latest version. click [here](https://nodejs.org/en/download/)
 
 --- 
 
-## 2. Configuration
+# Configuration
 
 Before you can start using SHADOW, there are three files that need to be altered.
 
@@ -224,7 +224,7 @@ This file holds the relevant parsing information for downloading events from Goo
     ]
 ```
 
-## 3. Usage
-## 4. Contributions
-## 5. Q&A
-## 6. Coming Soon
+# Usage
+# Contributions
+# Q&A
+# Coming Soon
