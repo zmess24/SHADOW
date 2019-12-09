@@ -73,6 +73,8 @@ password=password_goes_here
 
 This file holds the credentials for accessing your individual instance of Google Calendar. To download the contents for this file, head to the [link](https://developers.google.com/calendar/quickstart/nodejs), click on the `ENABLE THE GOOGLE CALENDAR API` button, and then click the `DOWNLOAD CLIENT CONFIGURATION` button. This will download a `credentials.json` file that you can simply copy and paste into the existing one within SHADOW's root directory.
 
+**MAKE SURE YOU ARE LOGGED INTO YOUR QUANTUM METRIC CHROME ACCOUNT WHEN PERFORMING THIS STEP**
+
 #### `token.json`
 
 A `token.json` file will automatically be added to the root of the SHADOW directory upon completion of the autorization flow for the first time. **You do not need to do anything for this step**.
@@ -226,7 +228,7 @@ This file holds the relevant parsing information for downloading events from Goo
 
 # Usage
 
-### Formatting G-Calendar
+### 1. Formatting G-Calendar
 
 SHADOW relies on downloading events/meetings from your Google Calendar and parsing them into JSON to create activities within SF. Consequently, this means that in order to use SHADOW effectivily, you will have to start accounting for all of your hours within Google Calendar (which is much easier & faster than doing the equivilent within SF).
 
@@ -258,7 +260,9 @@ AB - Onboarding: Dashboards
   <img src="./assets/g_calendar_week.png" width="100%"/>
 </p>
 
-### 2. 
+### 2. Executing the Script
+
+
 # Contributions
 # FAQ
 # Coming Soon
