@@ -1,0 +1,214 @@
+[
+    {
+        "activityDate": "05/27/2019",
+        "recordType": "External",
+        "hours": 8,
+        "description": "Holiday ",
+        "type": " MDW",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/28/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/28/2019",
+        "recordType": "External",
+        "hours": 1.5,
+        "description": "TMAM ",
+        "type": " Events Configuration",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/28/2019",
+        "recordType": "External",
+        "hours": 2.5,
+        "description": "Wynn ",
+        "type": " Event Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/28/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "CS group meeting",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/28/2019",
+        "recordType": "External",
+        "hours": 1,
+        "description": "QM <> Taco Bell: Weekly Status Call",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/28/2019",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "[OPTIONAL] JIRA Ticket Prioritization",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum touch",
+        "type": "base",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Explore Fraud Use Cases [CS Internal Working Session]",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Zac <> Surge: TMAM Debrief ",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 2.5,
+        "description": "Herbalife: Event Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantummetric/Herbalife NCX Operations Working Session ",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "NCX Reporting in Quantum Metrics Follow Up",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 1.5,
+        "description": "TMAM: Event Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "ZM <> KC: Wynn Sync",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/29/2019",
+        "recordType": "External",
+        "hours": 2,
+        "description": "Wynn: Event Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/30/2019",
+        "recordType": "External",
+        "hours": 2.25,
+        "description": "Wynn: Event Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/30/2019",
+        "recordType": "External",
+        "hours": 1,
+        "description": "CXellence: Striving for Digital Excellence through Customer Insights Sharing",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/30/2019",
+        "recordType": "External",
+        "hours": 2,
+        "description": "Wynn: Event Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/30/2019",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "Ashley / Zac: HL Compliance Sync",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/30/2019",
+        "recordType": "External",
+        "hours": 3.75,
+        "description": "TMAM: Events Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/31/2019",
+        "recordType": "External",
+        "hours": 2,
+        "description": "TMAM: Events + Scoping",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/31/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Zac <> Paul: Account Sync",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/31/2019",
+        "recordType": "External",
+        "hours": 2.5,
+        "description": "TMAM: Events + Scoping",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    },
+    {
+        "activityDate": "05/31/2019",
+        "recordType": "External",
+        "hours": 4,
+        "description": "Wynn: Events Creation",
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer"
+    }
+]

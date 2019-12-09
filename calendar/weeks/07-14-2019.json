@@ -1,0 +1,262 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-15",
+        "hours": 2.25,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-15",
+        "recordType": "Internal",
+        "hours": 1,
+        "description": "CS All hands",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-15",
+        "hours": 1,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-15",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-15",
+        "hours": 2.25,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-15",
+        "hours": 0.5,
+        "description": "Wynn - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-15",
+        "hours": 1,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-16",
+        "hours": 3,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-16",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Taco Bell / Quantum Metric Status (Weekly)",
+        "account": "Taco Bell",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-16",
+        "hours": 3.5,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-16",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Dishon Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-16",
+        "hours": 2,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-17",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "[OPTIONAL] JIRA Ticket Prioritization",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-17",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum touch-base",
+        "account": "Ticketmaster /Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-17",
+        "hours": 0.5,
+        "description": "TB - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-17",
+        "hours": 3,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-17",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Metric & Herbalife Working Sessions: Operations",
+        "account": "Herbalife",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-17",
+        "hours": 4,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-18",
+        "hours": 8.75,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-19",
+        "hours": 1,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-19",
+        "hours": 0.5,
+        "description": "TB - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-19",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Paul: Account Sync",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-19",
+        "hours": 1,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-19",
+        "hours": 2.5,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-19",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Gil 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-19",
+        "hours": 3,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    }
+]

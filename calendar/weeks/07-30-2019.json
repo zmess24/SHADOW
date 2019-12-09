@@ -1,0 +1,82 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "hours": 1.5,
+        "description": "TMAM - Travel",
+        "type": "Travel",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "hours": 1,
+        "description": "TMAM - Onsite",
+        "type": "Onsite Visit",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "hours": 1.5,
+        "description": "TMAM - Travel",
+        "type": "Travel",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "hours": 1.5,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "hours": 1,
+        "description": "HL - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Dishon Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Gil 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-30",
+        "hours": 2,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    }
+]

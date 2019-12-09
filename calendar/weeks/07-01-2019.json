@@ -1,0 +1,42 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-01",
+        "hours": 3.75,
+        "description": "TMAM - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-01",
+        "hours": 0.5,
+        "description": "Wynn - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-01",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-01",
+        "hours": 3.75,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    }
+]

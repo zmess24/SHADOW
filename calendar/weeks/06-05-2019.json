@@ -1,0 +1,92 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "[OPTIONAL] JIRA Ticket Prioritization",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "CS Stand-Up / Office Hours",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum touch-base",
+        "account": "Ticketmaster /Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "hours": 0.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Surge: TMAM Debrief ",
+        "account": "Ticketmaster /Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "hours": 2.5,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantummetric/Herbalife NCX Operations Working Session",
+        "account": "Herbalife",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "hours": 3,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "06/05/2019",
+        "hours": 0.5,
+        "description": "Wynn - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    }
+]

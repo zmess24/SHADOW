@@ -1,0 +1,242 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-24",
+        "hours": 4.5,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-24",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-24",
+        "hours": 4.25,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-25",
+        "hours": 0.25,
+        "description": "Wynn - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Wynn Resorts",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-25",
+        "hours": 2.5,
+        "description": "Wynn - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-25",
+        "recordType": "External",
+        "hours": 1,
+        "description": "QM <> Taco Bell: Weekly Status Call",
+        "account": "Taco Bell",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-25",
+        "hours": 3,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-25",
+        "hours": 0.5,
+        "description": "Wynn - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-25",
+        "hours": 2.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-26",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "[OPTIONAL] JIRA Ticket Prioritization",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-26",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum touch-base",
+        "account": "Ticketmaster /Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-26",
+        "hours": 1,
+        "description": "HL - Travel",
+        "type": "Travel",
+        "account": "Herbalife",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-26",
+        "hours": 2.5,
+        "description": "HL - Onsite Visit",
+        "type": "Onsite Visit",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-26",
+        "hours": 2,
+        "description": "HL - Onsite Visit",
+        "type": "Onsite Visit",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-26",
+        "hours": 1,
+        "description": "HL - Travel",
+        "type": "Travel",
+        "account": "Herbalife",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-26",
+        "hours": 1.75,
+        "description": "Wynn - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-27",
+        "hours": 2.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-27",
+        "recordType": "Internal",
+        "hours": 1,
+        "description": "CXellence: Striving for Digital Excellence through Customer Insights Sharing",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-27",
+        "hours": 1,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-27",
+        "hours": 4,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-28",
+        "hours": 0.75,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-28",
+        "hours": 0.5,
+        "description": "TB - Internal Meetings ",
+        "type": "Internal Meetings",
+        "account": "Taco Bell",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-28",
+        "hours": 2.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster /Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-06-28",
+        "hours": 5.5,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    }
+]

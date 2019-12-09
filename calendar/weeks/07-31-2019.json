@@ -1,0 +1,52 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-31",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum touch-base",
+        "account": "Ticketmaster /Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-31",
+        "hours": 1,
+        "description": "HL - Travel",
+        "type": "Travel",
+        "account": "Herbalife",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-31",
+        "hours": 5,
+        "description": "HL - Onsite",
+        "type": "Onsite Visit",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-31",
+        "hours": 1,
+        "description": "HL - Travel",
+        "type": "Travel",
+        "account": "Herbalife",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-31",
+        "hours": 3.25,
+        "description": "Wynn - Travel",
+        "type": "Travel",
+        "account": "Wynn Resorts",
+        "recordType": "Internal"
+    }
+]

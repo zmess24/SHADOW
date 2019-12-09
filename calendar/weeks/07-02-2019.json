@@ -1,0 +1,62 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-02",
+        "hours": 0.75,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-02",
+        "hours": 0.5,
+        "description": "Wynn - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-02",
+        "hours": 3.25,
+        "description": "TB - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-02",
+        "hours": 2.25,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-02",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Gil 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-07-02",
+        "hours": 1.5,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    }
+]
