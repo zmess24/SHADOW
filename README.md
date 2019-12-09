@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-1. Installation
+1. [Installation](#installation)
 2. Configuration
 3. Usage
 4. Contributions
@@ -58,7 +58,7 @@ You will need Node to run this application. To download the latest version. clic
 
 # Configuration
 
-Before you can start using SHADOW, there are three files that need to be altered.
+Before you can start using SHADOW, there are three files that need to be created/altered.
 
 #### `.env`
 
