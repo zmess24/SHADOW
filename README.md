@@ -1,8 +1,11 @@
-![ghost](https://static.thenounproject.com/png/29520-200.png =40x)
+<p align="center">
+  <img src="https://static.thenounproject.com/png/29520-200.png" width="200"/>
+</p>
+
 
 # S.H.A.D.O.W
 
-The purpose of SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccurence **W**riter)is to automate the process of logging hours in SalesForce for the Quantum Metric CS team. SHADOW relies on two main processes: 
+> The purpose of SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccurence **W**riter)is to automate the process of logging hours in SalesForce for the Quantum Metric CS team. SHADOW relies on two main processes: 
 
 1. Scraping a users Google Calender and then parsing the events into a formatted JSON file.
 2. Logging into SalesForce via a headless browser, and recording each JSON object as a CS activity. 
@@ -21,13 +24,13 @@ The purpose of SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccuren
 
 Please check your version of OS X before you begin. (Click the Apple icon in the upper left corner and choose About this Mac). The following installation procedures should work for Mavericks, Yosemite, or Mojave. All of the below commands need to be entered via the command line.
 
-### Xcode 
+### A. Xcode 
 
 ```
 xcode-select --install
 ```
 
-### Homebrew
+### B. Homebrew
 
 #### Install Homebrew
 
@@ -47,7 +50,10 @@ brew doctor
 
 ```
 
-### Node.js
+### C. Node.js
+
+You will need Node to run this application. To download the latest version. click [here](https://nodejs.org/en/download/)
+
 --- 
 
 ## 2. Configuration
