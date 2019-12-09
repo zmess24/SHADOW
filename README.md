@@ -262,7 +262,21 @@ AB - Onboarding: Dashboards
 
 ### 2. Executing the Script
 
+# FAQ
+
+#### How many days/activities can SHADOW parse?
+
+> There is no limit on on many days/activities SHADOW can parse and write into SF, but it is recommended that you run the script either dailey or weekly to avoid edge-cases (e.g, putting the same day and activites into SF more than once)
+
+#### Is SF able to detect/block the script?
+
+> This script has been tested for over 5 monthes, and thus far, there have been no problems. The reason a validation code is texted to your phone is for bot dection purposes. Worst case scenario, you log in one too many times too quickly (assuming you had to because you formatted something incorrectly), and you temporarily get locked out of your account for a few hours.
+
+#### Wow Zac, this script is so awesome, how can I ever thank you for giving me X amount of time back in my week?
+
+> Feel free to venmo me the dollar equivilent of much time this script saves you in minutes per week at your discretion. I also take travelers checks, AMEX and personal gift cards. 
 
 # Contributions
-# FAQ
-# Coming Soon
+
+If you see any area for improvement, would like to make a feature request, or want to report a bug, please message Zac on slack. Skill and trust permitting, he will provision read/write access to the private repo for you to submit a PR if he can't make the change himself.
+
