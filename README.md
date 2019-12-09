@@ -262,6 +262,26 @@ AB - Onboarding: Dashboards
 
 ### 2. Executing the Script
 
+#### Starting the Script
+
+In order to execute SHADOW, navigate to the root of SHADOW's project directory via the command line and run: 
+
+```bash
+npm start
+```
+
+#### Choosing a Date Range
+
+Upon initiation, SHADOW will you ask you to enter the date range you wish to download activities from. You have two options:
+
+1. Default to downloading the current week
+2. Choose a custom date range:
+
+![]('./assets/choose_date.gif')
+
+#### Logging into SF
+
+
 # FAQ
 
 #### How many days/activities can SHADOW parse?
@@ -270,9 +290,9 @@ AB - Onboarding: Dashboards
 
 #### Is SF able to detect/block the script?
 
-> This script has been tested for over 5 monthes, and thus far, there have been no problems. The reason a validation code is texted to your phone is for bot dection purposes. Worst case scenario, you log in one too many times too quickly (assuming you had to because you formatted something incorrectly), and you temporarily get locked out of your account for a few hours.
+> SHADOW has been tested for over 5 monthes, and thus far, there have been no problems. The reason a validation code is texted to your phone is for bot dection purposes. Worst case scenario, you log in one too many times too quickly (assuming you had to because you formatted something incorrectly), and you temporarily get locked out of your account for a few hours.
 
-#### Wow Zac, this script is so awesome, how can I ever thank you for giving me X amount of time back in my week?
+#### Wow Zac, SHADOW is so awesome, how can I ever thank you for giving me X amount of time back in my week?
 
 > Feel free to venmo me the dollar equivilent of much time this script saves you in minutes per week at your discretion. I also take travelers checks, AMEX and personal gift cards. 
 
