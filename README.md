@@ -226,18 +226,21 @@ This file holds the relevant parsing information for downloading events from Goo
 
 # Usage
 
-### 1. Formatting G-Calendar
+### Formatting G-Calendar
 
 SHADOW relies on downloading events/meetings from your Google Calendar and parsing them into JSON to create activities within SF. Consequently, this means that in order to use SHADOW effectivily, you will have to start accounting for all of your hours within Google Calendar (which is much easier & faster than doing the equivilent within SF).
 
 #### Event Dictation
 
-In order for SHADOW to properly parse your events, you will need to format them using the following dictation: `ACCOUNT ACRONYM - TYPE OF ACTIVITY`.
+In order for SHADOW to properly parse your events, you will need to format them using the following dictation: 
 
-* `ACCOUNT ACRONYM` should be replaced with a account title from the `accounts` array within `calendar/config.json`.
-* `TYPE OF ACTIVITY` should be replaced with an activity type from the `types` array within `calendar/config.json`, which map to specific activity types within SF.
+`ACCOUNT ACRONYM - TYPE OF ACTIVITY`.
 
-*Examples:*
+* *ACCOUNT ACRONYM* should be replaced with a account title from the `accounts` array within `calendar/config.json`.
+* *TYPE OF ACTIVITY* should be replaced with an activity type from the `types` array within `calendar/config.json`, which maps to specific activity types within SF.
+
+#### Event Dictation Examples
+
 ```
 TMAM - Ongoing: Event Creation
 Wynn - Production Support
@@ -245,7 +248,17 @@ TB - Business Review Call
 HL - Reports/Scoping/Analysis
 AB - Onboarding: Dashboards
 ```
+#### Google Calendar Day Example
 
+<p align="center">
+  <img src="./assets/g_calendar_day.png" width="500"/>
+</p>
+
+#### Google Calendar Week Example
+
+<p align="center">
+  <img src="./assets/g_calendar_week.png" width="500"/>
+</p>
 
 ### 2. 
 # Contributions
