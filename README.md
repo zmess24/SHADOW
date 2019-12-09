@@ -12,11 +12,11 @@
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. Configuration
-3. Usage
-4. Contributions
-5. Q&A
+* [Installation](#installation)
+* [Configuration](#configuration)
+* [Usage](#usage)
+* [Contributions](#Contributions)
+* [Q&A](#q&A)
 
 --- 
 
