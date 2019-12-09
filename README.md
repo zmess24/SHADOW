@@ -1,4 +1,6 @@
-# ![ghost](https://static.thenounproject.com/png/29520-200.png =40x) SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccurence **W**riter)
+![ghost](https://static.thenounproject.com/png/29520-200.png =40x)
+
+# SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccurence **W**riter)
 
 The purpose of SHADOW is to automate the process of logging hours in SalesForce for the Quantum Metric CS team. SHADOW relies on two main processes: 
 
