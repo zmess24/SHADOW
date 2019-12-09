@@ -21,13 +21,13 @@ The purpose of SHADOW is to automate the process of logging hours in SalesForce 
 
 Please check your version of OS X before you begin. (Click the Apple icon in the upper left corner and choose About this Mac). The following installation procedures should work for Mavericks, Yosemite, or Mojave. All of the below commands need to be entered via the command line.
 
-### 1. Xcode 
+### Xcode 
 
 ```
 xcode-select --install
 ```
 
-### 2. Homebrew
+### Homebrew
 
 #### Install Homebrew
 
@@ -47,7 +47,7 @@ brew doctor
 
 ```
 
-### 3. Node.js
+### Node.js
 --- 
 
 ## 2. Configuration
@@ -56,7 +56,12 @@ Before you can start using SHADOW, there are three files that need to be altered
 
 #### `.env`
 
-The `.env` file holds your username and password combination for logging into SalesForce. Replace the values to the right of the equal signs (with no spaces) for each respectivly.
+Create a `.env` file in the root of of the SHADOW directory to hold your SF username & password. Copy and paste the following code into the file, replacing the values to ther right of the `=` sign with your own login credientials:
+
+```
+username=username_goes_here
+password=password_goes_here
+```
 
 #### `credentials.json`
 
