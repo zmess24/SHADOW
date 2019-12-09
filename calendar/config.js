@@ -167,6 +167,13 @@ module.exports = {
             recordType: "Internal",
             account: "CS Internal Activities",
             type: "Internal Meetings"
+        },
+        {
+            description: "Taco Bell / Quantum Metric Status (Bi-Weekly)",
+            recordType: "External",
+            account: "Taco Bell",
+            type: "Business Review Call"
         }
     ],
 }
+

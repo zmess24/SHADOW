@@ -108,7 +108,6 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 				}
 			} else {
 				let event = summary.split('-');
-				console.log(event)
 				let account = accounts.find(({ title }) => title === event[0].trim());
 				let { value, recordType } = types.find(({ title }) => title.toLowerCase().indexOf(event[1].trim().toLowerCase()) >= 0);
 				return {

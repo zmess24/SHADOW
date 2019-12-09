@@ -7,6 +7,5 @@ const
     let { timeMin, timeMax } = await queryDate();
     await scrapeGoogleCalendar(timeMin, timeMax, async function() {
         // await logSFHours(timeMin);
-        // console.log('DONE')
     });
 })();

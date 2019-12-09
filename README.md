@@ -272,13 +272,19 @@ npm start
 
 #### Choosing a Date Range
 
-Upon initiation, SHADOW will you ask you to enter the date range you wish to download activities from. You have two options:
+Upon initiation, SHADOW will you ask you to enter the date range you wish to download and record activities in SF from. You have two options:
 
 1. Default to downloading the current week
-2. Choose a custom date range:
 
-<p align="center"><img src="/assets/choose_date.gif?raw=true"/></p>
+<p align="center"><img src="/assets/choose_week.gif?raw=true"/></p>
 
+2. Choose a single day:
+
+<p align="center"><img src="/assets/choose_day.gif?raw=true"/></p>
+
+3. Choose a custom date range:
+
+<p align="center"><img src="/assets/choose_range.gif?raw=true"/></p>
 
 #### Logging into SF
 
