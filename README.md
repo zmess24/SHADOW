@@ -15,8 +15,8 @@
 * [Installation](#installation)
 * [Configuration](#configuration)
 * [Usage](#usage)
-* [Contributions](#Contributions)
-* [Q&A](#q&A)
+* [Contributions](#contributions)
+* [FAQ](#faq)
 
 --- 
 
@@ -226,5 +226,5 @@ This file holds the relevant parsing information for downloading events from Goo
 
 # Usage
 # Contributions
-# Q&A
+# FAQ
 # Coming Soon
