@@ -2,11 +2,12 @@ module.exports = {
     rep: "Zac Messinger",
     repType: "Customer Success Engineer",
     accounts: [
-        { title: 'TMAM', value: "Ticketmaster / Live Nation", },
-        { title: 'HL', value: "Herbalife", },
-        { title: 'AB', value: "Allbound", },
-        { title: 'Wynn', value: "Wynn Resorts", },
-        { title: 'TB', value: "Taco Bell", }
+        { title: 'TMAM', value: "Ticketmaster / Live Nation" },
+        { title: 'HL', value: "Herbalife" },
+        { title: 'AB', value: "Allbound" },
+        { title: 'Wynn', value: "Wynn Resorts" },
+        { title: 'TB', value: "Taco Bell" },
+        { title: 'CS', value: "CS Internal Activities" },
     ],
     types: [
         { title: "Ongoing: Event Creation", value: "Ongoing: Event Creation", recordType: "External" },

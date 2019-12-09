@@ -88,11 +88,11 @@ This file holds the relevant parsing information for downloading events from Goo
 * **accounts** - Contains an array of objects with key/value pairs for each account abbreviation (title), and full name (value). Make sure that the value string matches the account name _EXACTLY_ as it appears in SalesForce. The `title` property is the abbreviation you would like to use within Goolge Calender for the account (This is expanded upon in the usage section below).
 ```js
     accounts: [
-        { title: 'TMAM', value: "Ticketmaster / Live Nation", },
-        { title: 'HL', value: "Herbalife", },
-        { title: 'AB', value: "Allbound", },
-        { title: 'Wynn', value: "Wynn Resorts", },
-        { title: 'TB', value: "Taco Bell", }
+        { title: 'TMAM', value: "Ticketmaster / Live Nation" },
+        { title: 'HL', value: "Herbalife" },
+        { title: 'AB', value: "Allbound" },
+        { title: 'Wynn', value: "Wynn Resorts" },
+        { title: 'TB', value: "Taco Bell" }
     ],
 ```
 * **meetings** - Contains an array of your weekly/monthly reoccuring meetings (client status calls, 1:1's, internal company meetings, ect).
@@ -225,6 +225,29 @@ This file holds the relevant parsing information for downloading events from Goo
 ```
 
 # Usage
+
+### 1. Formatting G-Calendar
+
+SHADOW relies on downloading events/meetings from your Google Calendar and parsing them into JSON to create activities within SF. Consequently, this means that in order to use SHADOW effectivily, you will have to start accounting for all of your hours within Google Calendar (which is much easier & faster than doing the equivilent within SF).
+
+#### Event Dictation
+
+In order for SHADOW to properly parse your events, you will need to format them using the following dictation: `ACCOUNT ACRONYM - TYPE OF ACTIVITY`.
+
+* `ACCOUNT ACRONYM` should be replaced with a account title from the `accounts` array within `calendar/config.json`.
+* `TYPE OF ACTIVITY` should be replaced with an activity type from the `types` array within `calendar/config.json`, which map to specific activity types within SF.
+
+*Examples:*
+```
+TMAM - Ongoing: Event Creation
+Wynn - Production Support
+TB - Business Review Call
+HL - Reports/Scoping/Analysis
+AB - Onboarding: Dashboards
+```
+
+
+### 2. 
 # Contributions
 # FAQ
 # Coming Soon
