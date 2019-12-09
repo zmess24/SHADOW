@@ -251,13 +251,13 @@ AB - Onboarding: Dashboards
 #### Google Calendar Day Example
 
 <p align="center">
-  <img src="./assets/g_calendar_day.png" width="500"/>
+  <img src="./assets/g_calendar_day.png" width="100%"/>
 </p>
 
 #### Google Calendar Week Example
 
 <p align="center">
-  <img src="./assets/g_calendar_week.png" width="500"/>
+  <img src="./assets/g_calendar_week.png" width="100%"/>
 </p>
 
 ### 2. 
