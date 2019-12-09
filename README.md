@@ -277,7 +277,8 @@ Upon initiation, SHADOW will you ask you to enter the date range you wish to dow
 1. Default to downloading the current week
 2. Choose a custom date range:
 
-![]('./assets/choose_date.gif')
+<p align="center"><img src="/assets/choose_date.gif?raw=true"/></p>
+
 
 #### Logging into SF
 
