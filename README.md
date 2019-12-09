@@ -76,12 +76,10 @@ A `token.json` file will automatically be added to the root of the SHADOW direct
 This file holds the relevant parsing information for downloading events from Google Calender and reformatting them into JSON objects. There are three sections that will require some custom configuration:
 
 * **rep** - Replace the value here with your name _EXACTLY_ as it appears in SalesForce.
-* 
 ```js
     rep: "Zac Messinger"
 ```
 * **accounts** - Contains an array of objects with key/value pairs for each account abbreviation (title), and full name (value). Make sure that the value string matches the account name _EXACTLY_ as it appears in SalesForce. The `title` property is the abbreviation you would like to use within Goolge Calender for the account (This is expanded upon in the usage section below).
-* 
 ```js
     accounts: [
         { title: 'TMAM', value: "Ticketmaster / Live Nation", },
@@ -95,7 +93,7 @@ This file holds the relevant parsing information for downloading events from Goo
     * The `description` property is the name of the meeting.
     * The `recordType` property describes if the meeting is External or Internal Facing.
     * The `account` property lists what client the meeting is associated with.
-* ```js
+```js
     meetings: [
         {
             description: "Holiday",
