@@ -24,6 +24,12 @@
 
 Please check your version of OS X before you begin. (Click the Apple icon in the upper left corner and choose About this Mac). The following installation procedures should work for Mavericks, Yosemite, or Mojave. All of the below commands need to be entered via the command line.
 
+After Node has been installed and this repo has been cloned, type the following in the root of SHADOW's directory to install all the neccesary packages.
+
+```bash
+npm install
+```
+
 ### 1. Xcode 
 
 ```
