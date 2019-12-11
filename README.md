@@ -5,6 +5,10 @@
 
 # S.H.A.D.O.W
 
+<p align="center">
+  <img src="/assets/full_play.gif" width="200"/>
+</p>
+
 > The purpose of SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccurence **W**riter) is to automate the process of logging hours in SalesForce for the Quantum Metric CS team. SHADOW relies on two main processes: 
 
 1. Scraping a users Google Calender and then parsing the events into a formatted JSON file.
