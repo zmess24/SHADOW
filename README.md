@@ -292,9 +292,11 @@ Upon initiation, SHADOW will you ask you to enter the date range you wish to dow
 
 <p align="center"><img src="/assets/choose_range.gif?raw=true"/></p>
 
-#### Logging into SF
+#### Logging hours into SF
 
-Once your Goolge Calendar activities have been downloaded for the specified date range, SHADOW will automatically begin the process of logging into SF. After a couple seconds, you will recieve a prompt to enter a "code", which you should recieve via text message from a 6 digit number from SF (e.g, `732-873`).
+Once your Goolge Calendar activities have been downloaded for the specified date range, SHADOW will automatically begin the process of logging into SF. After a couple seconds, you will recieve a prompt to enter a "code", which you should recieve via text message from a 6 digit number from SF (e.g, `732-873`). Enter this code into the command line prompt. 
+
+After the code is accepted, SHADOW will automatically begin logging your hours. All that's left to do is set, back, relax, and enjoy.
 
 # FAQ
 
