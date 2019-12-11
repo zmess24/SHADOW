@@ -5,7 +5,7 @@
 
 # S.H.A.D.O.W
 
-> The purpose of SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccurence **W**riter)is to automate the process of logging hours in SalesForce for the Quantum Metric CS team. SHADOW relies on two main processes: 
+> The purpose of SHADOW (**S**alesForce **H**eadless **A**utomate**d** **O**ccurence **W**riter) is to automate the process of logging hours in SalesForce for the Quantum Metric CS team. SHADOW relies on two main processes: 
 
 1. Scraping a users Google Calender and then parsing the events into a formatted JSON file.
 2. Logging into SalesForce via a headless browser, and recording each JSON object as a CS activity. 
@@ -272,7 +272,7 @@ npm start
 
 #### Choosing a Date Range
 
-Upon initiation, SHADOW will you ask you to enter the date range you wish to download and record activities in SF from. You have two options:
+Upon initiation, SHADOW will you ask you to enter the date range you wish to download and record activities in SF from. You have three options:
 
 1. Default to downloading the current week
 
@@ -288,16 +288,17 @@ Upon initiation, SHADOW will you ask you to enter the date range you wish to dow
 
 #### Logging into SF
 
+Once your Goolge Calendar activities have been downloaded for the specified date range, SHADOW will automatically begin the process of logging into SF. After a couple seconds, you will recieve a prompt to enter a "code", which you should recieve via text message from a 6 digit number from SF (e.g, `732-873`).
 
 # FAQ
 
 #### How many days/activities can SHADOW parse?
 
-> There is no limit on on many days/activities SHADOW can parse and write into SF, but it is recommended that you run the script either dailey or weekly to avoid edge-cases (e.g, putting the same day and activites into SF more than once)
+> There is no limit on on many days/activities SHADOW can parse and write into SF, but it is recommended that you run the script either dailey or weekly to avoid edge-cases (e.g, putting the same day and activites into SF more than once).
 
 #### Is SF able to detect/block the script?
 
-> SHADOW has been tested for over 5 monthes, and thus far, there have been no problems. The reason a validation code is texted to your phone is for bot dection purposes. Worst case scenario, you log in one too many times too quickly (assuming you had to because you formatted something incorrectly), and you temporarily get locked out of your account for a few hours.
+> SHADOW has been in testing for over 5 monthes, and thus far, there have been no problems. Worst case scenario, you log in one too many times too quickly (assuming you had to because you formatted something incorrectly), and you temporarily get locked out of your account for a few hours.
 
 #### Wow Zac, SHADOW is so awesome, how can I ever thank you for giving me X amount of time back in my week?
 
@@ -305,5 +306,5 @@ Upon initiation, SHADOW will you ask you to enter the date range you wish to dow
 
 # Contributions
 
-If you see any area for improvement, would like to make a feature request, or want to report a bug, please message Zac on slack. Skill and trust permitting, he will provision read/write access to the private repo for you to submit a PR if he can't make the change himself.
+If you see any area for improvement, would like to make a feature request, or report a bug, please message Zac on slack. Skill and trust permitting, he will provision read/write access to the private repo for you to submit a PR if he can't make the change himself.
 
