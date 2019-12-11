@@ -87,7 +87,12 @@ This file holds the relevant parsing information for downloading events from Goo
 ```js
     rep: "Zac Messinger"
 ```
-* **accounts** - Contains an array of objects with key/value pairs for each account abbreviation (title), and full name (value). Make sure that the value string matches the account name _EXACTLY_ as it appears in SalesForce. The `title` property is the abbreviation you would like to use within Goolge Calender for the account (This is expanded upon in the usage section below).
+* **accounts** - Contains an array of objects with key/value pairs for each account abbreviation (title), and full name (value). Make sure that the value string matches the account name _EXACTLY_ as it appears in SalesForce. The `title` property is the abbreviation you would like to use within Goolge Calender for the account (This is expanded upon in the usage section below). The easiest way to do this is to actually log into SF, and directly grab the value held within the `title` property for each of your accounts within the activity dropdown menu.
+
+<p align="center">
+  <img src="./assets/sf_account_title.png" width="100%"/>
+</p>
+
 ```js
     accounts: [
         { title: 'TMAM', value: "Ticketmaster / Live Nation" },
@@ -97,6 +102,7 @@ This file holds the relevant parsing information for downloading events from Goo
         { title: 'TB', value: "Taco Bell" }
     ],
 ```
+
 * **meetings** - Contains an array of your weekly/monthly reoccuring meetings (client status calls, 1:1's, internal company meetings, ect).
     * The `description` property is the name of the meeting.
     * The `recordType` property describes if the meeting is External or Internal Facing.
