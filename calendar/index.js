@@ -109,7 +109,19 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 			} else {
 				let event = summary.split('-');
 				let account = accounts.find(({ title }) => title === event[0].trim());
-				let { value, recordType } = types.find(({ title }) => title.toLowerCase().indexOf(event[1].trim().toLowerCase()) >= 0);
+
+				if (!account) {
+					throw new Error(chalk.red(`Account ${event[0]}not found in config.js. Please check to make sure the account name is included within config.js if intended.`))
+					process.exit();
+				};
+
+				try {
+					let { value, recordType } = types.find(({ title }) => title.toLowerCase().indexOf(event[1].trim().toLowerCase()) >= 0);
+				} catch (err) {
+					throw new Error(chalk.red(`Activity${event[1]} not found in config.js. Please check to make sure the activity name is included within config.js if intended.`))
+					process.exit();
+				};
+
 				return {
 					rep,
 					repType,

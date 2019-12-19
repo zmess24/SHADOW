@@ -1,0 +1,12 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2019-12-19",
+        "recordType": "Internal",
+        "hours": 1.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    }
+]
