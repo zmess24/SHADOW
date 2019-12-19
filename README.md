@@ -318,7 +318,7 @@ After the code is accepted, SHADOW will automatically begin logging your hours. 
 
 #### Why am I getting when parsing my Google Calendar?
 
-> If you are getting errors when parsing your Google Calendar, it is most likely due to two possible scnarios: 1) The account name doesn't exist within config.js, or 2) the activity doesn't exist within config.js. When this happens, an error message will appear in the console outlining the details surronding these edge cases (e.g, the incorrect account or activity that caused the error). More often than not, these erros can be rectified by adding them within config.js. For more information on how to do this, see [Configuration](#configuration).
+> If you are getting errors when parsing your Google Calendar, it is most likely due to two possible scnarios: 1) The account name doesn't exist within config.js, or 2) the activity doesn't exist within config.js. When this happens, an error message will appear in the console outlining the details surronding these edge cases (e.g, the incorrect account or activity that caused the error). These erros can be rectified by adding them within config.js. For more information on how to do this, see [Configuration](#configuration).
 
 # Contributions
 
