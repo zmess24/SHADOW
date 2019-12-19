@@ -316,9 +316,9 @@ After the code is accepted, SHADOW will automatically begin logging your hours. 
 
 > SHADOW has been in testing for over 5 monthes, and thus far, there have been no problems. Worst case scenario, you log in one too many times too quickly (assuming you had to because you formatted something incorrectly), and you temporarily get locked out of your account for a few hours.
 
-#### Wow Zac, SHADOW is so awesome, how can I ever thank you for giving me X amount of time back in my week?
+#### Why am I getting when parsing my Google Calendar?
 
-> Feel free to venmo me the dollar equivilent of much time this script saves you in minutes per week at your discretion. I also take travelers checks, AMEX and personal gift cards. 
+> If you are getting errors when parsing your Google Calendar, it is most likely due to two possible scnarios: 1) The account name doesn't exist within config.js, or 2) the activity doesn't exist within config.js. When this happens, an error message will appear in the console outlining the details surronding these edge cases (e.g, the incorrect account or activity that caused the error). More often than not, these erros can be rectified by adding them within config.js. For more information on how to do this, see [Configuration](#configuration).
 
 # Contributions
 
