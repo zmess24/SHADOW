@@ -115,6 +115,7 @@ This file holds the relevant parsing information for downloading events from Goo
     * The `description` property is the name of the meeting.
     * The `recordType` property describes if the meeting is External or Internal Facing.
     * The `account` property lists what client the meeting is associated with.
+    * They `type` property indicates what type of activity the meeting is.
 ```js
     meetings: [
         {
