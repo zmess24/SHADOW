@@ -117,21 +117,20 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 
 				try {
 					let { value, recordType } = types.find(({ title }) => title.toLowerCase().indexOf(event[1].trim().toLowerCase()) >= 0);
+						return {
+							rep,
+							repType,
+							activityDate: moment(start.dateTime).format("YYYY-MM-DD"),
+							hours: convertHours(start, end),
+							description: summary,
+							type: value,
+							account: (account ? account.value : "CS Internal Activities"),
+							recordType,
+						}
 				} catch (err) {
 					throw new Error(chalk.red(`Activity${event[1]} not found in config.js. Please check to make sure the activity name is included within config.js if intended.`))
 					process.exit();
 				};
-
-				return {
-					rep,
-					repType,
-					activityDate: moment(start.dateTime).format("YYYY-MM-DD"),
-					hours: convertHours(start, end),
-					description: summary,
-					type: value,
-					account: (account ? account.value : "CS Internal Activities"),
-					recordType,
-				}
 			}
 		};
 
