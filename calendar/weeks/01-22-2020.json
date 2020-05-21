@@ -1,0 +1,42 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-22",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Touch Base",
+        "account": "Ticketmaster / Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-22",
+        "hours": 5,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-22",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-22",
+        "hours": 2.25,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    }
+]

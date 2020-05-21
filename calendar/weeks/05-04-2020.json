@@ -1,0 +1,132 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.5,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "***Team QM - Weekly Huddle***",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 1,
+        "description": "RF - Kickoff Call",
+        "type": "Kickoff Call",
+        "account": "Raymour & Flanigan",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 1.5,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.5,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.5,
+        "description": "HL -  Technical Call",
+        "type": "Technical Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 1,
+        "description": "CP - Production Support",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.5,
+        "description": "CP - Technical Call",
+        "type": "Technical Call",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.5,
+        "description": "TMAM - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.75,
+        "description": "CS - Product Support",
+        "type": "Product Support",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.5,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-04",
+        "hours": 0.5,
+        "description": "RF - Production Support",
+        "type": "Production Support",
+        "account": "Raymour & Flanigan",
+        "recordType": "External"
+    }
+]

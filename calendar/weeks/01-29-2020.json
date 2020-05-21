@@ -1,0 +1,52 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-29",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Touch Base",
+        "account": "Ticketmaster / Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-29",
+        "hours": 8,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-30",
+        "hours": 1,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-30",
+        "hours": 7,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-31",
+        "hours": 8,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    }
+]

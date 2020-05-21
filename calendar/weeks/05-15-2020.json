@@ -1,0 +1,92 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 0.5,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 0.4166666666666667,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 0.4166666666666667,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 0.5,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 0.5,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 1,
+        "description": "TMAM - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 1.25,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-15",
+        "hours": 2.25,
+        "description": "Wynn - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    }
+]

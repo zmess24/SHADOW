@@ -1,0 +1,32 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-27",
+        "hours": 2,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-27",
+        "recordType": "Internal",
+        "hours": 1,
+        "description": "CXellence: Striving for Digital Excellence through Customer Insights Sharing",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-27",
+        "hours": 5,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-05",
+        "hours": 0.75,
+        "description": "HL - Travel",
+        "type": "Travel",
+        "account": "Herbalife",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-06",
+        "hours": 7.5,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    }
+]

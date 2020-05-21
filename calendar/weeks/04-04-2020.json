@@ -1,0 +1,62 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-04",
+        "hours": 6.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-06",
+        "hours": 0.5,
+        "description": "CP - Production Support",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-06",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "***Team QM - Weekly Huddle***",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-06",
+        "hours": 3.5,
+        "description": "CP - Production Support",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-06",
+        "hours": 3.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-06",
+        "hours": 0.5,
+        "description": "TMAM - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "Internal"
+    }
+]

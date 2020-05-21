@@ -1,0 +1,92 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "hours": 0.5,
+        "description": "CP - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "ClaroPay",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "hours": 1,
+        "description": "CP - Production Support",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Touch Base",
+        "account": "Ticketmaster / Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "hours": 1,
+        "description": "CP - Business Review Call",
+        "type": "Business Review Call",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "hours": 0.5,
+        "description": "CP - Production Support",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "hours": 3,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "hours": 2.25,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-04-01",
+        "hours": 1,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    }
+]

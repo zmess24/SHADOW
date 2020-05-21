@@ -1,0 +1,102 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-10",
+        "recordType": "Internal",
+        "hours": 0.75,
+        "description": "Internal Launch Team Weekly",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-10",
+        "hours": 2.5,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-10",
+        "hours": 1,
+        "description": "TB - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-10",
+        "hours": 4.5,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-11",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-11",
+        "hours": 3,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-11",
+        "hours": 1,
+        "description": "TB - Production Support",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-11",
+        "hours": 1.5,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-11",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Dishon Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-11",
+        "hours": 3.75,
+        "description": "CP - Onboarding: Event Creation",
+        "type": "Onboarding: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    }
+]

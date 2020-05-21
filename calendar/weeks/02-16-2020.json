@@ -1,0 +1,22 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-16",
+        "hours": 1.5,
+        "description": "TMAM - Ongoing: Dashboards",
+        "type": "Ongoing: Dashboards/Alerts/Report Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-02-17",
+        "recordType": "Internal",
+        "hours": 8,
+        "description": "Holiday",
+        "account": "CS Internal Activities",
+        "type": "Holiday"
+    }
+]

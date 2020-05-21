@@ -8,12 +8,14 @@ module.exports = {
         { title: 'Wynn', value: "Wynn Resorts" },
         { title: 'TB', value: "Taco Bell" },
         { title: 'CS', value: "CS Internal Activities" },
+        { title: 'CP', value: "ClaroPay"},
+        { title: 'RF', value: "Raymour & Flanigan"}
     ],
     types: [
         { title: "Ongoing: Event Creation", value: "Ongoing: Event Creation", recordType: "External" },
-        { title: "Ongoing: Dashboards", value: "Ongoing: Dashboards", recordType: "External" },
+        { title: "Ongoing: Dashboards", value: "Ongoing: Dashboards/Alerts/Report Creation", recordType: "External" },
         { title: "Onboarding: Event Creation", value: "Onboarding: Event Creation", recordType: "External" },
-        { title: "Onboarding: Dashboards", value: "Onboarding: Dashboards", recordType: "External" },
+        { title: "Onboarding: Dashboards", value: "Onboarding: Dashboards/Alerts/Report Creation", recordType: "External" },
         { title: "Technical Call", value: "Technical Call", recordType: "External" },
         { title: "Business Review Call", value: "Business Review Call", recordType: "External" },
         { title: "Kickoff Call", value: "Kickoff Call", recordType: "External" },
@@ -39,7 +41,7 @@ module.exports = {
         {
             description: "Holiday",
             recordType: "Internal",
-            account: "CS Internal Activites",
+            account: "CS Internal Activities",
             type: "Holiday"
         },
         {
@@ -55,7 +57,7 @@ module.exports = {
             type: "Internal Meetings"
         },
         { 
-            description: "Taco Bell / Quantum Metric Status (Weekly)", 
+            description: "Taco Bell / Quantum Metric Status (Bi-Weekly)", 
             recordType: "External", 
             account: "Taco Bell",
             type: "Business Review Call"  
@@ -109,6 +111,12 @@ module.exports = {
             type: "Internal Meetings" 
         },
         { 
+            description: "Field Eng Showcase & Product Sync", 
+            recordType: "Internal", 
+            account: "CS Internal Activities",
+            type: "Internal Meetings" 
+        },
+        { 
             description: "Monthly Field Eng Showcase", 
             recordType: "Internal", 
             account: "CS Internal Activities",
@@ -151,7 +159,7 @@ module.exports = {
             type: "Internal Meetings"
         },
         {
-            description: "Zac <> Dishon Weekly Account Alignment Meeting",
+            description: "Zac<>Dishon<>Megi  Weekly Account Alignment Meeting",
             recordType: "Internal",
             account: "CS Internal Activities",
             type: "Internal Meetings"
@@ -172,6 +180,60 @@ module.exports = {
             description: "Taco Bell / Quantum Metric Status (Bi-Weekly)",
             recordType: "External",
             account: "Taco Bell",
+            type: "Business Review Call"
+        },
+        {
+            description: "Internal Launch Team Weekly",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Internal Meetings"
+        },
+        {
+            description: "Zac <> Collin 1:1",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Internal Meetings"
+        },
+        {
+            description: "Field Eng Showcase",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Group/Company Meeting"
+        },
+        {
+            description: "***QM ALL HANDS***",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Group/Company Meeting"
+        },
+        {
+            description: "Monthly Product :: Review",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Group/Company Meeting"
+        },
+         {
+            description: "***Team QM - Weekly Huddle***",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Group/Company Meeting"
+        },
+         {
+            description: "CSE MotM - West Coast Edition",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Group/Company Meeting"
+        },
+        {
+            description: "Customer Success All Hands",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Group/Company Meeting"
+        },
+        {
+            description: "QM <> RF: Recurring Meeting",
+            recordType: "External",
+            account: "Raymour & Flanigan",
             type: "Business Review Call"
         }
     ],

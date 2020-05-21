@@ -1,0 +1,12 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-02",
+        "hours": 0.5,
+        "description": "TB - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Taco Bell",
+        "recordType": "External"
+    }
+]

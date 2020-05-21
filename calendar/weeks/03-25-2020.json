@@ -1,0 +1,72 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-25",
+        "hours": 2.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-25",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-25",
+        "hours": 0.25,
+        "description": "Wynn - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Wynn Resorts",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-25",
+        "hours": 1.75,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-25",
+        "hours": 1,
+        "description": "Wynn - Ongoing: Dashboards",
+        "type": "Ongoing: Dashboards/Alerts/Report Creation",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-25",
+        "hours": 0.75,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-03-25",
+        "hours": 1,
+        "description": "TMAM - Technical Call",
+        "type": "Technical Call",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    }
+]

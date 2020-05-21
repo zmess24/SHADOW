@@ -1,0 +1,82 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "hours": 1,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "hours": 1.25,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "hours": 1.5,
+        "description": "CP - Reports/Scoping/Analysis",
+        "type": "Reports/Scoping/Analysis",
+        "account": "GlobalHITSS ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "hours": 1.25,
+        "description": "Wynn - Production Support",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "hours": 1,
+        "description": "TB - Production Support",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Dishon Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Gil 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-01-14",
+        "hours": 1,
+        "description": "TB - Production Support",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    }
+]
