@@ -1,0 +1,192 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-05",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Metric Office Hours",
+        "account": "Norton Software",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-05",
+        "hours": 1,
+        "description": "NL - Ongoing: AM",
+        "type": "Ongoing: Account Maintenance",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "hours": 0.5,
+        "description": "NL - Ongoing: AM",
+        "type": "Ongoing: Account Maintenance",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "hours": 3.5,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "hours": 0.5,
+        "description": "NL - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Quantum Metric Extended Office Hours",
+        "account": "Norton Software",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "hours": 1.5,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Collin 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-06",
+        "hours": 1,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac / Francis Weekly",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "hours": 0.5,
+        "description": "AA - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Weekly QM and Alaska Call",
+        "account": "Alaska Airlines",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "hours": 0.5,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "hours": 1,
+        "description": "NL - Ongoing: AM",
+        "type": "Ongoing: Account Maintenance",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "hours": 1,
+        "description": "CP - Ongoing: AM",
+        "type": "Ongoing: Account Maintenance",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "hours": 0.75,
+        "description": "CP - Training",
+        "type": "Value-Based Training",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-07",
+        "hours": 1.25,
+        "description": "CP - Ongoing: AM",
+        "type": "Ongoing: Account Maintenance",
+        "account": "ClaroPay",
+        "recordType": "External"
+    }
+]

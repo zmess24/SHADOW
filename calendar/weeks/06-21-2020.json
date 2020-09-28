@@ -1,0 +1,392 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-22",
+        "hours": 1,
+        "description": "TMAM - Technical Call",
+        "type": "Technical Call",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-22",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-22",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "***Team QM - Weekly Huddle***",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-22",
+        "hours": 0.5,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-22",
+        "recordType": "External",
+        "hours": 1,
+        "description": "QM <> RF: Recurring Meeting",
+        "account": "Raymour & Flanigan",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-22",
+        "hours": 1,
+        "description": "TMAM - Ongoing: Dashboards",
+        "type": "Ongoing: Dashboards/Alerts/Report Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-22",
+        "hours": 3.5,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-23",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-23",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "All-CSE Meeting of the Minds ",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-23",
+        "hours": 2.5,
+        "description": "CP - Production Support",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-23",
+        "hours": 0.5,
+        "description": "CP - Technical Call",
+        "type": "Technical Call",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-23",
+        "hours": 1,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-23",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac<>Dishon<>Megi  Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-23",
+        "hours": 2.5,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-24",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-24",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Touch Base",
+        "account": "Ticketmaster / Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-24",
+        "hours": 2,
+        "description": "HL - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-24",
+        "hours": 2.5,
+        "description": "CP - Ongoing: PII Remediation",
+        "type": "Ongoing: PII Remediation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-24",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-24",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Collin 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-24",
+        "hours": 1.5,
+        "description": "CP - Ongoing: PII Remediation",
+        "type": "Ongoing: PII Remediation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "hours": 0.5,
+        "description": "HL - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "hours": 1.5,
+        "description": "CP - Ongoing: PII Remediation",
+        "type": "Ongoing: PII Remediation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "hours": 0.5,
+        "description": "NL - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "recordType": "Internal",
+        "hours": 1,
+        "description": "CXellence: Striving for Digital Excellence through Customer Insights Sharing",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "hours": 1.5,
+        "description": "CP - Ongoing: PII Remediation",
+        "type": "Ongoing: PII Remediation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "hours": 0.5,
+        "description": "HL - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-25",
+        "hours": 2,
+        "description": "CP - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "ClaroPay",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 1.25,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 0.25,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 1,
+        "description": "TMAM - Technical Call",
+        "type": "Technical Call",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 0.75,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 0.5,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 0.5,
+        "description": "NL - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 1,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "QM <> Wynn: UX Bi-Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-26",
+        "hours": 1.5,
+        "description": "TMAM - Ongoing: Event Creation",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    }
+]

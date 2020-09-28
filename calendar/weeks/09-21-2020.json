@@ -1,0 +1,362 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "hours": 0.5,
+        "description": "Team Touchbase",
+        "type": "Internal Meetings",
+        "account": "ClaroPay",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "recordType": "Internal",
+        "hours": 1,
+        "description": "Customer Success All Hands",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "hours": 0.5,
+        "description": "Tap events for Nareth",
+        "type": "Ongoing: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "hours": 0.5,
+        "description": "RN Module touchbase w/ Ashley",
+        "type": "Internal Meetings",
+        "account": "ClaroPay",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "hours": 0.5,
+        "description": "Jordan Meeting Request",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "recordType": "Internal",
+        "hours": 0.4166666666666667,
+        "description": "CSE MotM - West Coast Edition",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "hours": 2,
+        "description": "CH1",
+        "type": "Onboarding: Dashboards/Alerts/Report Creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac<>Dishon<>Megi  Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-21",
+        "hours": 2,
+        "description": "Free Trials + Conversion Update",
+        "type": "Onboarding: Event Creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-22",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-22",
+        "hours": 1,
+        "description": "Free Trials + Conversion Update",
+        "type": "Onboarding: Event Creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-22",
+        "hours": 0.4166666666666667,
+        "description": "Kelly Handoff",
+        "type": "Internal Meetings",
+        "account": "Allbound",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-22",
+        "hours": 1,
+        "description": "NCX Ops Updates",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-22",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "NortonLifeLock Quantum Review of CH1 results",
+        "account": "Norton Software",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-22",
+        "hours": 4.5,
+        "description": "CH1 Updates",
+        "type": "Onboarding: Event Creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "hours": 0.5,
+        "description": "Android Tap Events",
+        "type": "Ongoing: Event Creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "hours": 2,
+        "description": "NCX Ops Updates",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "hours": 0.5,
+        "description": "Volume Scoping w/ Deion",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "hours": 0.5,
+        "description": "Alerts Review from Marcos",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "hours": 1.5,
+        "description": "Marcos Team Alerts + Dashboards",
+        "type": "Value-Based Training",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Metric Office Hours",
+        "account": "Norton Software",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-23",
+        "hours": 2,
+        "description": "NCX Ops Updates",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "hours": 0.5,
+        "description": "iOS send phone number from home screen",
+        "type": "Technical Call",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "hours": 0.5,
+        "description": "Missing Android Sessions",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "hours": 1,
+        "description": "Missing Android Sessions",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "hours": 1,
+        "description": "CH1 Updates",
+        "type": "Onboarding: Dashboards/Alerts/Report Creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "hours": 1,
+        "description": "Missing Android Sessions",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Quantum Metric Extended Office Hours",
+        "account": "Norton Software",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Taco Bell / Quantum Metric Status (Bi-Weekly)",
+        "account": "Taco Bell",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "hours": 1,
+        "description": "NCX Ops Updates",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "recordType": "External",
+        "hours": 1,
+        "description": "QM/AS Office Hours ",
+        "account": "Alaska Airlines",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-24",
+        "hours": 0.5,
+        "description": "CH1 vs MSC triage",
+        "type": "Production Support",
+        "account": "Norton Software",
+        "recordType": "External"
+    }
+]

@@ -49,7 +49,7 @@ class CustomPage {
             await this.waitFor('.uiInput.uiInputNumber input');
             await this.waitFor('textarea');
             // Accounts
-            await this.type('input[title="Search Accounts"]', a.account, { delay: 15 });
+            await this.type('input[title="Search Accounts"]', a.account, { delay: 75 });
             await this.click(`div[title*="${a.account}"]`);
             // Type
             let types = await this.$$('.modal-container .uiPopupTrigger .select');
@@ -65,13 +65,9 @@ class CustomPage {
             for (var i = 0; i < 4; i++ ) { await this.keyboard.press('Backspace'); };
             var hourString = a.hours.toString();
             await this.type('.uiInput.uiInputNumber input', hourString, { delay: 15 });
-            // await this.evaluate((hours) => {
-            //     const dateInput = document.querySelector('.uiInput.uiInputNumber input');
-            //     await dateInout.click();
-            //     dateInput.value = hours;
-            // }, a.hours);
         } catch (err) { 
-            throw new Error(err.message);
+            let res = await prompts({ type: 'text', name: 'code', message: 'Continue?'});
+            return;
         }
     }
 };

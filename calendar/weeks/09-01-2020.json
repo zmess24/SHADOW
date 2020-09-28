@@ -1,0 +1,172 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-01",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-01",
+        "hours": 1.5,
+        "description": "Alerts Creation & Dashboard Update",
+        "type": "Onboarding: Dashboards/Alerts/Report Creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-01",
+        "hours": 1,
+        "description": "Missing Sessions",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-01",
+        "hours": 1,
+        "description": "FullStory vs QM Gong Call",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-01",
+        "hours": 2,
+        "description": "MA Widget",
+        "type": "Ongoing: Event Creation",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-01",
+        "hours": 1.5,
+        "description": "Performance Demo Prep",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-02",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Touch Base",
+        "account": "Ticketmaster / Live Nation",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-02",
+        "hours": 4.5,
+        "description": "MA Widget Dashboard Tests",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-02",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-02",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Quantum Metric Office Hours",
+        "account": "Norton Software",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-02",
+        "hours": 0.5,
+        "description": "React Native Learnings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-02",
+        "hours": 0.5,
+        "description": "NCX Ops Review w/ Ron",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-02",
+        "hours": 1,
+        "description": "estore v3 support",
+        "type": "Production Support",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-03",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-03",
+        "hours": 3.5,
+        "description": "React Native Learnings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-03",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Quantum Metric Extended Office Hours",
+        "account": "Norton Software",
+        "type": "Status/AM/Non Value-Added Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-03",
+        "hours": 2.75,
+        "description": "React Native Learnings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    }
+]

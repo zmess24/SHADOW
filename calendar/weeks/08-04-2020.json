@@ -1,0 +1,42 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-04",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-04",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "All-CSE Meeting of the Minds ",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-04",
+        "hours": 4.5,
+        "description": "TMAM - Ongoing: AM",
+        "type": "Ongoing: Account Maintenance",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-08-04",
+        "hours": 2.5,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "hours": 0.5,
+        "description": "TMAM - Technical Call",
+        "type": "Technical Call",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "hours": 1.5,
+        "description": "TMAM - Production Support",
+        "type": "Production Support",
+        "account": "Ticketmaster / Live Nation",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "recordType": "Internal",
+        "hours": 1,
+        "description": "Monthly Product :: Review",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "hours": 0.5,
+        "description": "HL - Production Support",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "hours": 0.5,
+        "description": "HL - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "hours": 1,
+        "description": "TB - Production Support",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Taco Bell / Quantum Metric Status (Bi-Weekly)",
+        "account": "Taco Bell",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-18",
+        "hours": 0.75,
+        "description": "TB - Production Support",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-06-19",
+        "recordType": "Internal",
+        "hours": 8,
+        "description": "Holiday",
+        "account": "CS Internal Activities",
+        "type": "Holiday"
+    }
+]

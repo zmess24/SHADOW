@@ -109,26 +109,29 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 			} else {
 				let event = summary.split('-');
 				let account = accounts.find(({ title }) => title === event[0].trim());
-
+				console.log(summary)
+				let eventDescription = summary.split('-')[1].split(';')[1].trim();
+				let eventType = summary.split('-')[1].split(';')[0].trim();
+			
 				if (!account) {
 					throw new Error(chalk.red(`Account ${event[0]}not found in config.js. Please check to make sure the account name is included within config.js if intended.`))
 					process.exit();
 				};
-
+				console.log(eventDescription)
 				try {
-					let { value, recordType } = types.find(({ title }) => title.toLowerCase().indexOf(event[1].trim().toLowerCase()) >= 0);
+					let { value, recordType } = types.find(({ title }) => title.toLowerCase().indexOf(eventType.trim().toLowerCase()) >= 0);
 						return {
 							rep,
 							repType,
 							activityDate: moment(start.dateTime).format("YYYY-MM-DD"),
 							hours: convertHours(start, end),
-							description: summary,
+							description: eventDescription,
 							type: value,
 							account: (account ? account.value : "CS Internal Activities"),
 							recordType,
 						}
 				} catch (err) {
-					throw new Error(chalk.red(`Activity${event[1]} not found in config.js. Please check to make sure the activity name is included within config.js if intended.`))
+					throw new Error(chalk.red(`Activity${eventType} not found in config.js. Please check to make sure the activity name is included within config.js if intended.`))
 					process.exit();
 				};
 			}

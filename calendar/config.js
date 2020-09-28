@@ -9,18 +9,22 @@ module.exports = {
         { title: 'TB', value: "Taco Bell" },
         { title: 'CS', value: "CS Internal Activities" },
         { title: 'CP', value: "ClaroPay"},
-        { title: 'RF', value: "Raymour & Flanigan"}
+        { title: 'RF', value: "Raymour & Flanigan"},
+        { title: "NL", value: "Norton Software"},
+        { title: "AA", value: "Alaska Airlines"}
     ],
     types: [
         { title: "Ongoing: Event Creation", value: "Ongoing: Event Creation", recordType: "External" },
         { title: "Ongoing: Dashboards", value: "Ongoing: Dashboards/Alerts/Report Creation", recordType: "External" },
+        { title: "Ongoing: PII", value: "Ongoing: PII Remediation", recordType: "External" },
         { title: "Onboarding: Event Creation", value: "Onboarding: Event Creation", recordType: "External" },
         { title: "Onboarding: Dashboards", value: "Onboarding: Dashboards/Alerts/Report Creation", recordType: "External" },
+        { title: "Ongoing: AM", value: "Ongoing: Account Maintenance", recordType: "External" },
         { title: "Technical Call", value: "Technical Call", recordType: "External" },
         { title: "Business Review Call", value: "Business Review Call", recordType: "External" },
         { title: "Kickoff Call", value: "Kickoff Call", recordType: "External" },
         { title: "Onsite Visit", value: "Onsite Visit", recordType: "External" },
-        { title: "Value-Based Training", value: "Value-Based Training", recordType: "External" },
+        { title: "Training", value: "Value-Based Training", recordType: "External" },
         { title: "Reports/Scoping/Analysis", value: "Reports/Scoping/Analysis", recordType: "External" },
         { title: "Office Hours/Value Added Call", value: "Office Hours/Value Added Call", recordType: "External" },
         { title: "Production Support", value: "Production Support", recordType: "External" },
@@ -218,7 +222,7 @@ module.exports = {
             account: "CS Internal Activities",
             type: "Group/Company Meeting"
         },
-         {
+        {
             description: "CSE MotM - West Coast Edition",
             recordType: "Internal",
             account: "CS Internal Activities",
@@ -235,6 +239,66 @@ module.exports = {
             recordType: "External",
             account: "Raymour & Flanigan",
             type: "Business Review Call"
+        },
+        {
+            description: "All-CSE Meeting of the Minds ",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Group/Company Meeting"
+        },
+        {
+            description: "Zac / Francis",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Internal Meetings"
+        },
+        {
+            description: "QM<>HL OC - Bi-Weekly Touchpoint",
+            recordType: "External",
+            account: "Herbalife",
+            type: "Status/AM/Non Value-Added Call"
+        },
+        {
+            description: "QM <> Wynn: UX Bi-Weekly Status Call",
+            recordType: "External",
+            account: "Wynn Resorts",
+            type: "Status/AM/Non Value-Added Call"
+        },
+        {
+            description: "Quantum Metric Office Hours",
+            recordType: "External",
+            account: "Norton Software",
+            type: "Status/AM/Non Value-Added Call"
+        },
+        {
+            description: "QM<> Herbalife: Monthly Touch Point",
+            recordType: "External",
+            account: "Herbalife",
+            type: "Status/AM/Non Value-Added Call"
+        },
+        {
+            description: "Quantum Metric Extended Office Hours",
+            recordType: "External",
+            account: "Norton Software",
+            type: "Status/AM/Non Value-Added Call"
+        },
+        {
+            description: "QM + Alaska Weekly Sync",
+            recordType: "External",
+            account: "Alaska Airlines",
+            type: "Status/AM/Non Value-Added Call"
+        },
+        {
+            description: "NortonLifeLock Quantum Review of CH1 results",
+            recordType: "External",
+            account: "Norton Software",
+            type: "Business Review Call"
+        },
+        {
+            description: "QM/AS Office Hours ",
+            recordType: "External",
+            account: "Alaska Airlines",
+            type: "Status/AM/Non Value-Added Call"
         }
     ],
 }

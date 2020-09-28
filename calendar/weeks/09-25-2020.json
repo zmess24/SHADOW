@@ -1,0 +1,82 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "hours": 1,
+        "description": "NCX Ops Funnel Review",
+        "type": "Internal Meetings",
+        "account": "Herbalife",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "hours": 0.5,
+        "description": "NCX Ops Funnel Review",
+        "type": "Internal Meetings",
+        "account": "Herbalife",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "hours": 0.5,
+        "description": "Traffic Scoping w/ Deion",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "hours": 1.5,
+        "description": "Ecomm Team",
+        "type": "Value-Based Training",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "hours": 1,
+        "description": "NCX Ops Updates",
+        "type": "Ongoing: Event Creation",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "hours": 1,
+        "description": "NCX Ops Team",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-09-25",
+        "hours": 0.75,
+        "description": "Nareth request",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    }
+]

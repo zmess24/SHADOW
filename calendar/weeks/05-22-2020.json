@@ -1,0 +1,42 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-22",
+        "hours": 0.5,
+        "description": "TB - Technical Call",
+        "type": "Technical Call",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-22",
+        "hours": 0.5,
+        "description": "CS - Product Support",
+        "type": "Product Support",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-22",
+        "hours": 0.5,
+        "description": "CS - Internal Meetings",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-05-22",
+        "hours": 1,
+        "description": "Wynn - Business Review Call",
+        "type": "Business Review Call",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    }
+]
