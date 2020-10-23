@@ -277,7 +277,7 @@ module.exports = {
             type: "Status/AM/Non Value-Added Call"
         },
         {
-            description: "Quantum Metric Extended Office Hours",
+            description: "Weekly Sync",
             recordType: "External",
             account: "Norton Software",
             type: "Status/AM/Non Value-Added Call"
@@ -299,7 +299,16 @@ module.exports = {
             recordType: "External",
             account: "Alaska Airlines",
             type: "Status/AM/Non Value-Added Call"
-        }
+        },
+        {
+            description: "CSE West Team Sync",
+            recordType: "Internal",
+            account: "CS Internal Activities",
+            type: "Internal Meetings"
+        },
+
     ],
 }
+
+
 
