@@ -1,0 +1,152 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "Payments Errors Dashboard Updates",
+        "type": "Ongoing: Account Maintenance",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "EBH Conversions w/ Howard",
+        "type": "Business Review Call",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "WC Support",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.75,
+        "description": "Renewal Flow",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "Login Error",
+        "type": "Ongoing: Event Creation",
+        "account": "Alaska Airlines",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "Maya Out of Stock Error",
+        "type": "Ongoing: Event Creation",
+        "account": "Raymour & Flanigan",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.25,
+        "description": "WC Follow Up",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "Brynne Campaign Code Event",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "iOS 14 Support & Payment Error Dashboards",
+        "type": "Ongoing: Account Maintenance",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "Renewal Flow Research",
+        "type": "Production Support",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac<>Dishon<>Megi  Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "Performance Review Assesment",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.75,
+        "description": "Brynne Campaign Code Test + Email",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "2020-11-09",
+        "hours": 0.5,
+        "description": "Shadow Fix",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    }
+]

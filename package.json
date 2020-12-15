@@ -6,7 +6,8 @@
   "scripts": {
     "scrape_calendar": "node calendar",
     "populate_salesforce": "node headless",
-    "start": "node index.js"
+    "start": "node index.js",
+    "debug": "node --inspect-brk index.js"
   },
   "keywords": [],
   "author": "",
@@ -17,7 +18,7 @@
     "googleapis": "^39.2.0",
     "moment": "^2.24.0",
     "prompts": "^2.1.0",
-    "puppeteer": "^1.17.0",
+    "puppeteer": "^5.4.1",
     "string-similarity": "^3.0.0"
   },
   "devDependencies": {

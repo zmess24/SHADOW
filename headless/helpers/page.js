@@ -44,28 +44,45 @@ class CustomPage {
         }
     }
 
+    async findInput(index, selector) {
+        const inputHandle = await this.evaluateHandle(() => { 
+                var items = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[index];
+                return items.querySelector('force-record-layout-lookup').shadowRoot.querySelector('lightning-lookup').shadowRoot.querySelector('lightning-lookup-desktop').shadowRoot.querySelector('lightning-grouped-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector(selector);
+            }
+        );
+        return inputHandle;
+    }
+
     async createEntry(a) {
         try {
-            await this.waitFor('.uiInput.uiInputNumber input');
-            await this.waitFor('textarea');
-            // Accounts
-            await this.type('input[title="Search Accounts"]', a.account, { delay: 75 });
-            await this.click(`div[title*="${a.account}"]`);
+            // Find Account
+            const searchHandle = await this.findInput(0, 'input');
+            let accountField = await searchHandle.asElement();
+            await accountField.type(a.account, { delay: 75 });
+
+            // Click Account
+            const itemHandle = await this.findInput(0, 'ul li');
+            let itemField = await itemHandle.asElement();
+            await itemField.click();
+            // await this.click(`div[title*="${a.account}"]`);
+            // debugger
             // Type
-            let types = await this.$$('.modal-container .uiPopupTrigger .select');
+            debugger;
+            let types = await this.$$('force-form-picklist[force-recordpicklist_recordpicklist]');
             await types[0].click();
-            await this.click(`a[title="${a.type}"]`);
+            await this.click(`span[title="${a.type}"]`);
             // Description
-            await this.type('textarea', a.description, { delay: 15 });
+            await this.type('textarea[required]', a.description, { delay: 15 });
             // Date
-            await this.click('.uiInputDate input');
+            await this.click('input[name*=Activity_Date"]');
             await this.click(`td[data-datevalue="${a.activityDate}"]`);
             // Hours
-            await this.click('.uiInput.uiInputNumber input', { delay: 15 });
+            await this.click('input[name*="Hours"]', { delay: 15 });
             for (var i = 0; i < 4; i++ ) { await this.keyboard.press('Backspace'); };
             var hourString = a.hours.toString();
-            await this.type('.uiInput.uiInputNumber input', hourString, { delay: 15 });
+            await this.type('input[name*="Hours"]', hourString, { delay: 15 });
         } catch (err) { 
+            console.log(err);
             let res = await prompts({ type: 'text', name: 'code', message: 'Continue?'});
             return;
         }

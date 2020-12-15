@@ -109,7 +109,6 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 			} else {
 				let event = summary.split('-');
 				let account = accounts.find(({ title }) => title === event[0].trim());
-				console.log(summary)
 				let eventDescription = summary.split('-')[1].split(';')[1].trim();
 				let eventType = summary.split('-')[1].split(';')[0].trim();
 			
@@ -117,7 +116,6 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 					throw new Error(chalk.red(`Account ${event[0]}not found in config.js. Please check to make sure the account name is included within config.js if intended.`))
 					process.exit();
 				};
-				console.log(eventDescription)
 				try {
 					let { value, recordType } = types.find(({ title }) => title.toLowerCase().indexOf(eventType.trim().toLowerCase()) >= 0);
 						return {
