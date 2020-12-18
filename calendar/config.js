@@ -11,13 +11,14 @@ module.exports = {
         { title: 'CP', value: "ClaroPay"},
         { title: 'RF', value: "Raymour & Flanigan"},
         { title: "NL", value: "Norton Software"},
-        { title: "AA", value: "Alaska Airlines"}
+        { title: "AA", value: "Alaska Airlines"},
+        { title: "SC", value: "Sam's Club"}
     ],
     types: [
-        { title: "Ongoing: Event Creation", value: "Ongoing: Event Creation", recordType: "External" },
+        { title: "Ongoing: Events Creation", value: "Ongoing: Events Creation", recordType: "External" },
         { title: "Ongoing: Dashboards", value: "Ongoing: Dashboards/Alerts/Report Creation", recordType: "External" },
         { title: "Ongoing: PII", value: "Ongoing: PII Remediation", recordType: "External" },
-        { title: "Onboarding: Event Creation", value: "Onboarding: Event Creation", recordType: "External" },
+        { title: "Onboarding: Events Creation", value: "Onboarding: Events Creation", recordType: "External" },
         { title: "Onboarding: Dashboards", value: "Onboarding: Dashboards/Alerts/Report Creation", recordType: "External" },
         { title: "Ongoing: AM", value: "Ongoing: Account Maintenance", recordType: "External" },
         { title: "Technical Call", value: "Technical Call", recordType: "External" },
@@ -28,7 +29,7 @@ module.exports = {
         { title: "Reports/Scoping/Analysis", value: "Reports/Scoping/Analysis", recordType: "External" },
         { title: "Office Hours/Value Added Call", value: "Office Hours/Value Added Call", recordType: "External" },
         { title: "Production Support", value: "Production Support", recordType: "External" },
-        { title: "Status/AM/Non Value-Added Call", value: "Status/AM/Non Value-Added Call", recordType: "External" },
+        { title: "Status/AM call", value: "Status/AM call", recordType: "External" },
         { title: "Vacation", value: "Vacation", recordType: "Internal" },
         { title: "Holiday", value: "Holiday", recordType: "Internal" },
         { title: "Illness", value: "Illness", recordType: "Internal" },
@@ -256,37 +257,37 @@ module.exports = {
             description: "QM<>HL OC - Bi-Weekly Touchpoint",
             recordType: "External",
             account: "Herbalife",
-            type: "Status/AM/Non Value-Added Call"
+            type: "Status/AM call"
         },
         {
             description: "QM <> Wynn: UX Bi-Weekly Status Call",
             recordType: "External",
             account: "Wynn Resorts",
-            type: "Status/AM/Non Value-Added Call"
+            type: "Status/AM call"
         },
         {
             description: "Quantum Metric Office Hours",
             recordType: "External",
             account: "Norton Software",
-            type: "Status/AM/Non Value-Added Call"
+            type: "Status/AM call"
         },
         {
             description: "QM<> Herbalife: Monthly Touch Point",
             recordType: "External",
             account: "Herbalife",
-            type: "Status/AM/Non Value-Added Call"
+            type: "Status/AM call"
         },
         {
             description: "Weekly Sync",
             recordType: "External",
             account: "Norton Software",
-            type: "Status/AM/Non Value-Added Call"
+            type: "Status/AM call"
         },
         {
             description: "QM + Alaska Weekly Sync",
             recordType: "External",
             account: "Alaska Airlines",
-            type: "Status/AM/Non Value-Added Call"
+            type: "Status/AM call"
         },
         {
             description: "NortonLifeLock Quantum Review of CH1 results",
@@ -298,7 +299,7 @@ module.exports = {
             description: "QM/AS Office Hours ",
             recordType: "External",
             account: "Alaska Airlines",
-            type: "Status/AM/Non Value-Added Call"
+            type: "Status/AM call"
         },
         {
             description: "CSE West Team Sync",
@@ -306,9 +307,51 @@ module.exports = {
             account: "CS Internal Activities",
             type: "Internal Meetings"
         },
-
+        {
+            description: "Quantum Metric Claro Pay",
+            recordType: "External",
+            account: "ClaroPay",
+            type: "Business Review Call"
+        },
+         {
+            description: "Sams Internal Sync",
+            recordType: "External",
+            account: "Sam's Club",
+            type: "Business Review Call"
+        },
+        {
+            description: "R&F Internal",
+            recordType: "Internal",
+            account: "Raymour & Flanigan",
+            type: "Internal Meetings"
+        }
     ],
 }
 
 
 
+// business review call
+// kickoff call
+// client call
+// onboarding: dashboard/reports/alerts creation
+// onboarding: events creation
+// onboarding: integration work
+// onboarding: native event creation
+// onboarding: native pii remediation
+// onboarding: pii remediation
+// onboarding training
+// ongoing: account maintenance
+// ongoing: dashboard/reports/alerts creation
+// ongoing: events creation
+// ongoing: integration work
+// ongoing: native event creation
+// ongoing: native pii remediation
+// ongoing: pii remediation
+// onsite visit
+// production support
+// qbr
+// reports/scoping
+// research - existing customer analysis
+// research - pov analysis
+// Status/AM call
+// technical call

@@ -44,43 +44,90 @@ class CustomPage {
         }
     }
 
-    async findInput(index, selector) {
-        const inputHandle = await this.evaluateHandle(() => { 
-                var items = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[index];
-                return items.querySelector('force-record-layout-lookup').shadowRoot.querySelector('lightning-lookup').shadowRoot.querySelector('lightning-lookup-desktop').shadowRoot.querySelector('lightning-grouped-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector(selector);
-            }
-        );
+    async findInput(index) {
+        const inputHandle = await this.evaluateHandle(index => { 
+                var item = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[index].querySelector('[data-input-element-id="input-field"]');
+                switch (index) {
+                    case 0:
+                        return item.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('lightning-lookup-desktop').shadowRoot.querySelector('lightning-grouped-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('input');
+                    case 2:
+                        return item.shadowRoot.querySelector('force-form-picklist').shadowRoot.querySelector('lightning-picklist').shadowRoot.querySelector('lightning-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('input');
+                    case 4: 
+                        return item.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('textarea');
+                    case 6:
+                        return item.shadowRoot.querySelector('lightning-datepicker').shadowRoot.querySelector('input');
+                    case 8:
+                        return item.shadowRoot.querySelector('input');
+                }
+            }, index);
+        return inputHandle;
+    };
+
+    async findSelection(index, selection) {
+        const inputHandle = await this.evaluateHandle((index, selection) => {
+                let domLocation = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[index].querySelector('[data-input-element-id="input-field"]');
+                if (index === 2) {
+                    let lis = domLocation.shadowRoot.querySelector('force-form-picklist').shadowRoot.querySelector('lightning-picklist').shadowRoot.querySelector('lightning-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelectorAll("lightning-base-combobox-item");
+                    let position;
+                    lis.forEach((e, i) => {
+                        let value = e.attributes['data-value'].value.toLowerCase();
+                        let santizedSelection = selection.toLowerCase();
+                        if (value === santizedSelection) position = i;
+                    });
+                    return lis[position]
+                } else {
+                    return domLocation.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('lightning-lookup-desktop').shadowRoot.querySelector('lightning-grouped-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('ul li').querySelector('lightning-base-combobox-item').shadowRoot.querySelector('lightning-base-combobox-formatted-text')
+                }
+            }, index, selection);
         return inputHandle;
     }
 
     async createEntry(a) {
         try {
             // Find Account
-            const searchHandle = await this.findInput(0, 'input');
+            const searchHandle = await this.findInput(0);
             let accountField = await searchHandle.asElement();
-            await accountField.type(a.account, { delay: 75 });
+            await accountField.type(a.account, { delay: 300 });
 
             // Click Account
-            const itemHandle = await this.findInput(0, 'ul li');
+            const itemHandle = await this.findSelection(0);
             let itemField = await itemHandle.asElement();
-            await itemField.click();
-            // await this.click(`div[title*="${a.account}"]`);
-            // debugger
-            // Type
-            debugger;
-            let types = await this.$$('force-form-picklist[force-recordpicklist_recordpicklist]');
-            await types[0].click();
-            await this.click(`span[title="${a.type}"]`);
+            await itemField.click({ delay: 50 })
+
             // Description
-            await this.type('textarea[required]', a.description, { delay: 15 });
+            const textAreaHandle = await this.findInput(4);
+            let textAreaField = await textAreaHandle.asElement();
+            await textAreaField.type(a.description, { delay: 15 });
+
             // Date
-            await this.click('input[name*=Activity_Date"]');
-            await this.click(`td[data-datevalue="${a.activityDate}"]`);
-            // Hours
-            await this.click('input[name*="Hours"]', { delay: 15 });
+            const dateHandle = await this.findInput(6);
+            let dateField = await dateHandle.asElement();
+            await dateField.click();
+
+            // Add Date
+            for (var i = 0; i < 10; i++ ) { await this.keyboard.press('Backspace'); };
+            let dateString = a.activityDate.toString();
+            await dateField.type(dateString, { delay: 15 });
+
+            // Locate Hours Field
+            const hoursHandle = await this.findInput(8);
+            let hoursField = await hoursHandle.asElement();
+            await hoursField.click();
+            
+            // Add Time
             for (var i = 0; i < 4; i++ ) { await this.keyboard.press('Backspace'); };
             var hourString = a.hours.toString();
-            await this.type('input[name*="Hours"]', hourString, { delay: 15 });
+            await hoursField.type(hourString, { delay: 15 });
+
+            // Locate Type Field
+            const typeHandle = await this.findInput(2);
+            let typeField = await typeHandle.asElement();
+            await typeField.click({ delay: 500 })
+
+            // Click Type 
+            const activityHandle = await this.findSelection(2, a.type);
+            let activityField = await activityHandle.asElement();    
+            await activityField.click({ delay: 1000 });
         } catch (err) { 
             console.log(err);
             let res = await prompts({ type: 'text', name: 'code', message: 'Continue?'});

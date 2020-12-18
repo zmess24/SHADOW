@@ -99,7 +99,7 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 				return {
 					rep,
 					repType,
-					activityDate: moment(start.dateTime).format("YYYY-MM-DD"),
+					activityDate: moment(start.dateTime).format("MM/DD/YYYY"),
 					recordType: meeting.recordType,
 					hours: convertHours(start, end),
 					description: meeting.description,
@@ -109,6 +109,7 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 			} else {
 				let event = summary.split('-');
 				let account = accounts.find(({ title }) => title === event[0].trim());
+				console.log(account, event);
 				let eventDescription = summary.split('-')[1].split(';')[1].trim();
 				let eventType = summary.split('-')[1].split(';')[0].trim();
 			
@@ -121,7 +122,7 @@ function scrapeGoogleCalendar(timeMin, timeMax, cb) {
 						return {
 							rep,
 							repType,
-							activityDate: moment(start.dateTime).format("YYYY-MM-DD"),
+							activityDate: moment(start.dateTime).format("MM/DD/YYYY"),
 							hours: convertHours(start, end),
 							description: eventDescription,
 							type: value,

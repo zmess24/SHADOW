@@ -2,67 +2,7 @@
     {
         "rep": "Zac Messinger",
         "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
-        "recordType": "Internal",
-        "hours": 0.5,
-        "description": "Email Batching",
-        "account": "CS Internal Activities",
-        "type": "Internal Meetings"
-    },
-    {
-        "rep": "Zac Messinger",
-        "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
-        "hours": 1,
-        "description": "Test Takoda Script",
-        "type": "Internal Meetings",
-        "account": "CS Internal Activities",
-        "recordType": "Internal"
-    },
-    {
-        "rep": "Zac Messinger",
-        "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
-        "hours": 0.5,
-        "description": "Final QA Test",
-        "type": "Production Support",
-        "account": "Alaska Airlines",
-        "recordType": "External"
-    },
-    {
-        "rep": "Zac Messinger",
-        "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
-        "hours": 0.5,
-        "description": "Patty / Zac Raymour Config Review",
-        "type": "Internal Meetings",
-        "account": "Raymour & Flanigan",
-        "recordType": "Internal"
-    },
-    {
-        "rep": "Zac Messinger",
-        "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
-        "recordType": "External",
-        "hours": 1,
-        "description": "QM <> RF: Recurring Meeting",
-        "account": "Raymour & Flanigan",
-        "type": "Business Review Call"
-    },
-    {
-        "rep": "Zac Messinger",
-        "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
-        "hours": 1.25,
-        "description": "PiiAudit Testing",
-        "type": "Internal Meetings",
-        "account": "CS Internal Activities",
-        "recordType": "Internal"
-    },
-    {
-        "rep": "Zac Messinger",
-        "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
+        "activityDate": "12/14/2020",
         "hours": 0.75,
         "description": "Event Request Scoping",
         "type": "Internal Meetings",
@@ -72,7 +12,7 @@
     {
         "rep": "Zac Messinger",
         "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
+        "activityDate": "12/14/2020",
         "recordType": "Internal",
         "hours": 0.5,
         "description": "Zac<>Dishon<>Megi  Weekly Account Alignment Meeting",
@@ -82,7 +22,7 @@
     {
         "rep": "Zac Messinger",
         "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
+        "activityDate": "12/14/2020",
         "hours": 2,
         "description": "Team Creation + Onboarding Summary",
         "type": "Production Support",
@@ -92,7 +32,7 @@
     {
         "rep": "Zac Messinger",
         "repType": "Customer Success Engineer",
-        "activityDate": "2020-12-14",
+        "activityDate": "12/14/2020",
         "hours": 0.5,
         "description": "Payment autofill",
         "type": "Onboarding: Event Creation",
