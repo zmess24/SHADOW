@@ -1,0 +1,202 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 0.5,
+        "description": "Herbalife Scoping Session",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 0.5,
+        "description": "Purchase V2 Update",
+        "type": "Ongoing: Dashboard/reports/alerts creation",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "recordType": "Interal",
+        "hours": 0.6666666666666666,
+        "description": "CSE Strategic Initiatives",
+        "account": "Sam's Club",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "recordType": "External",
+        "hours": 0.8333333333333334,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 0.5,
+        "description": "Deion Window Property Scope",
+        "type": "How To Question Emails",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 0.5,
+        "description": "FOCUS Configuration Tracker Template",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 1,
+        "description": "Andrea Two Emails",
+        "type": "How To Question Emails",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 0.75,
+        "description": "QM x Kiosk Dashboard First Draft Review",
+        "type": "Business Review Call",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 1.75,
+        "description": "Food & Beverage, Sauce & Utensils Events & Dashboard Updates",
+        "type": "Ongoing: Dashboard/reports/alerts creation",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/11/2021",
+        "hours": 0.5,
+        "description": "Purchase Information V2 Update",
+        "type": "Ongoing: Dashboard/reports/alerts creation",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "hours": 1.5,
+        "description": "FOCUS Configuration Tracker Template",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "hours": 0.5,
+        "description": "Mobile Conversion Issue from Jordan",
+        "type": "Guided Insights & Enablement",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Zac<>Hugo:: QM/HITSS Connect",
+        "account": "ClaroPay",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "hours": 0.5,
+        "description": "FOCUS Configuration Tracker Template",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "hours": 0.5,
+        "description": "Zac<>Justin Quantum Metric Discussion",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "hours": 1,
+        "description": "CSE Brainstorm (Optional)",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/12/2021",
+        "hours": 1,
+        "description": "FOCUS Configuration Tracker Template",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    }
+]

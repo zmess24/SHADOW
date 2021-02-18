@@ -1,0 +1,502 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "hours": 2,
+        "description": "Personal Projects",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "recordType": "Interal",
+        "hours": 0.25,
+        "description": "Sam's CSE Internal Touchpoint",
+        "account": "Sam's Club",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "hours": 0.25,
+        "description": "QBR Review Prep",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "hours": 0.5,
+        "description": "AlaskaAir QBR Prep",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "hours": 0.5,
+        "description": "Yum quick sync",
+        "type": "Internal Meetings",
+        "account": "Taco Bell",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "hours": 1.5,
+        "description": "Empty Cart",
+        "type": "Ongoing: Events Creation",
+        "account": "Raymour & Flanigan",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac<>Dishon<>Megi  Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/04/2021",
+        "hours": 2,
+        "description": "Sueann Yang Requests Research",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 1,
+        "description": "Global HITSS",
+        "type": "Business Review Call",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.5,
+        "description": "GBQ Data Pull",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "All-CSE Meeting of the Minds ",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.5,
+        "description": "Alejandro GBQ",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.5,
+        "description": "Stephen Segment Issue",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.5,
+        "description": "POS Upsell Discussion",
+        "type": "Business Review Call",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.5,
+        "description": "Latest SDK Send",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.75,
+        "description": "To do list cleanup",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.75,
+        "description": "Deion Issue",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.75,
+        "description": "Internal Sync",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/05/2021",
+        "hours": 0.75,
+        "description": "SPA Funnel Event Scoping",
+        "type": "Internal Meetings",
+        "account": "Wynn Resorts",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "hours": 1.5,
+        "description": "Jordan, Deion, and Ben Requests",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "R&F Internal",
+        "account": "Raymour & Flanigan",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "hours": 1,
+        "description": "Patty + Zac Raymour Request Review",
+        "type": "Internal Meetings",
+        "account": "Raymour & Flanigan",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "recordType": "External",
+        "hours": 0.75,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "hours": 0.75,
+        "description": "Qualtrics Research",
+        "type": "Internal Meetings",
+        "account": "Raymour & Flanigan",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Collin 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/06/2021",
+        "recordType": "Internal",
+        "hours": 0.75,
+        "description": "CSE West Team Sync",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 0.25,
+        "description": "All Hands",
+        "type": "Group/Company Meeting",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "recordType": "Interal",
+        "hours": 0.4166666666666667,
+        "description": "CSE Strategic Initiatives",
+        "account": "Sam's Club",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 0.5,
+        "description": "Zac/Andrew ClaroPay Sub Review + Native Discussion",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "All-CSE Meeting of the Minds ",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 0.75,
+        "description": "Qualtrics Event",
+        "type": "Ongoing: Events Creation",
+        "account": "Raymour & Flanigan",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 0.25,
+        "description": "Patty Sync",
+        "type": "Internal Meetings",
+        "account": "Raymour & Flanigan",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 1,
+        "description": "Jessi Email",
+        "type": "Production Support",
+        "account": "Alaska Airlines",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 0.5,
+        "description": "Additional Tagging Discussion",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 0.5,
+        "description": "Patty Touchbase",
+        "type": "Internal Meetings",
+        "account": "Raymour & Flanigan",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 0.5,
+        "description": "CSE Sync w/ Thomas + Andrew",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/07/2021",
+        "hours": 1,
+        "description": "Touchbase w/ Kai & NCX",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/08/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/08/2021",
+        "hours": 0.5,
+        "description": "Session Drop",
+        "type": "Production Support",
+        "account": "Taco Bell",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/08/2021",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/08/2021",
+        "hours": 0.25,
+        "description": "Passenger Information Error Scoping",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/08/2021",
+        "hours": 0.75,
+        "description": "Passenger Information Error",
+        "type": "Ongoing: Events Creation",
+        "account": "Alaska Airlines",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/08/2021",
+        "hours": 1,
+        "description": "Internal Sub Cleanups + Checks",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "01/08/2021",
+        "hours": 0.5,
+        "description": "QBR Sync",
+        "type": "Internal Meetings",
+        "account": "Alaska Airlines",
+        "recordType": "Internal"
+    }
+]

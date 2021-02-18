@@ -44,63 +44,60 @@ class CustomPage {
         }
     }
 
-    async findInput(index) {
-        const inputHandle = await this.evaluateHandle(index => { 
-                var item = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[index].querySelector('[data-input-element-id="input-field"]');
-                switch (index) {
-                    case 0:
+    async findInput(name) {
+        const inputHandle = await this.evaluateHandle(name => { 
+                let map = { Account: 0, Date: 2, Hours: 4, Type: 6, Desc: 8 };
+                let item = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[map[name]].querySelector('[data-input-element-id="input-field"]');
+                switch (name) {
+                    case "Account":
                         return item.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('lightning-lookup-desktop').shadowRoot.querySelector('lightning-grouped-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('input');
-                    case 2:
-                        return item.shadowRoot.querySelector('force-form-picklist').shadowRoot.querySelector('lightning-picklist').shadowRoot.querySelector('lightning-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('input');
-                    case 4: 
-                        return item.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('textarea');
-                    case 6:
+                    case "Date":
                         return item.shadowRoot.querySelector('lightning-datepicker').shadowRoot.querySelector('input');
-                    case 8:
+                    case "Hours": 
                         return item.shadowRoot.querySelector('input');
+                    case "Type":
+                        return item.shadowRoot.querySelector('force-form-picklist').shadowRoot.querySelector('lightning-picklist').shadowRoot.querySelector('lightning-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('input');
+                    case "Desc":
+                        return item.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('textarea');
                 }
-            }, index);
+            }, name);
         return inputHandle;
     };
 
-    async findSelection(index, selection) {
-        const inputHandle = await this.evaluateHandle((index, selection) => {
-                let domLocation = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[index].querySelector('[data-input-element-id="input-field"]');
-                if (index === 2) {
-                    let lis = domLocation.shadowRoot.querySelector('force-form-picklist').shadowRoot.querySelector('lightning-picklist').shadowRoot.querySelector('lightning-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelectorAll("lightning-base-combobox-item");
-                    let position;
-                    lis.forEach((e, i) => {
-                        let value = e.attributes['data-value'].value.toLowerCase();
-                        let santizedSelection = selection.toLowerCase();
-                        if (value === santizedSelection) position = i;
-                    });
-                    return lis[position]
-                } else {
-                    return domLocation.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('lightning-lookup-desktop').shadowRoot.querySelector('lightning-grouped-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('ul li').querySelector('lightning-base-combobox-item').shadowRoot.querySelector('lightning-base-combobox-formatted-text')
-                }
-            }, index, selection);
+    async findSelection(name, selection) {
+        const inputHandle = await this.evaluateHandle((name, selection) => {
+            let map = { Account: 0, Activity: 6 };
+            let domLocation = document.querySelector('.oneRecordActionWrapper records-lwc-detail-panel').shadowRoot.querySelector('records-base-record-form').shadowRoot.querySelector('records-lwc-record-layout').shadowRoot.querySelector('[class*="forcegenerated-record-layout"]').shadowRoot.querySelector('force-record-layout-block').querySelectorAll('.slds-form__item')[map[name]].querySelector('[data-input-element-id="input-field"]');
+            if (name === "Activity") {
+                let lis = domLocation.shadowRoot.querySelector('force-form-picklist').shadowRoot.querySelector('lightning-picklist').shadowRoot.querySelector('lightning-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelectorAll("lightning-base-combobox-item");
+                let position;
+                lis.forEach((e, i) => {
+                    let value = e.attributes['data-value'].value.toLowerCase();
+                    let santizedSelection = selection.toLowerCase();
+                    if (value === santizedSelection) position = i;
+                });
+                return lis[position]
+            } else {
+                return domLocation.shadowRoot.querySelector('.slds-form-element').shadowRoot.querySelector('lightning-lookup-desktop').shadowRoot.querySelector('lightning-grouped-combobox').shadowRoot.querySelector('lightning-base-combobox').shadowRoot.querySelector('ul li').querySelector('lightning-base-combobox-item').shadowRoot.querySelector('lightning-base-combobox-formatted-text')
+            }
+        }, name, selection);
         return inputHandle;
     }
 
     async createEntry(a) {
         try {
             // Find Account
-            const searchHandle = await this.findInput(0);
+            const searchHandle = await this.findInput("Account");
             let accountField = await searchHandle.asElement();
             await accountField.type(a.account, { delay: 300 });
 
             // Click Account
-            const itemHandle = await this.findSelection(0);
+            const itemHandle = await this.findSelection("Account");
             let itemField = await itemHandle.asElement();
             await itemField.click({ delay: 50 })
 
-            // Description
-            const textAreaHandle = await this.findInput(4);
-            let textAreaField = await textAreaHandle.asElement();
-            await textAreaField.type(a.description, { delay: 15 });
-
             // Date
-            const dateHandle = await this.findInput(6);
+            const dateHandle = await this.findInput("Date");
             let dateField = await dateHandle.asElement();
             await dateField.click();
 
@@ -110,7 +107,7 @@ class CustomPage {
             await dateField.type(dateString, { delay: 15 });
 
             // Locate Hours Field
-            const hoursHandle = await this.findInput(8);
+            const hoursHandle = await this.findInput("Hours");
             let hoursField = await hoursHandle.asElement();
             await hoursField.click();
             
@@ -120,14 +117,20 @@ class CustomPage {
             await hoursField.type(hourString, { delay: 15 });
 
             // Locate Type Field
-            const typeHandle = await this.findInput(2);
+            const typeHandle = await this.findInput("Type");
             let typeField = await typeHandle.asElement();
             await typeField.click({ delay: 500 })
 
             // Click Type 
-            const activityHandle = await this.findSelection(2, a.type);
+            const activityHandle = await this.findSelection("Activity", a.type);
             let activityField = await activityHandle.asElement();    
             await activityField.click({ delay: 1000 });
+
+            // Description
+            const textAreaHandle = await this.findInput("Desc");
+            let textAreaField = await textAreaHandle.asElement();
+            await textAreaField.type(a.description, { delay: 15 });
+
         } catch (err) { 
             console.log(err);
             let res = await prompts({ type: 'text', name: 'code', message: 'Continue?'});

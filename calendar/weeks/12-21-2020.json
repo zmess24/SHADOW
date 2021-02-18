@@ -1,0 +1,322 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "recordType": "Internal",
+        "hours": 1,
+        "description": "Customer Success All Hands",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 0.5,
+        "description": "Configuration Approval Process Update & Android Questions",
+        "type": "Production Support",
+        "account": "Sam's Club",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 0.5,
+        "description": "Android Configuration Document Updates",
+        "type": "Production Support",
+        "account": "Sam's Club",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 0.25,
+        "description": "CSE Touchpoint",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 0.25,
+        "description": "Android Configuration PII Updat",
+        "type": "Production Support",
+        "account": "Sam's Club",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 0.75,
+        "description": "Deion Triage call",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 1.25,
+        "description": "Deion Traffic Triage Requst",
+        "type": "Production Support",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 0.4166666666666667,
+        "description": "ClaroList Chat",
+        "type": "Internal Meetings",
+        "account": "ClaroPay",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac<>Dishon<>Megi  Weekly Account Alignment Meeting",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 2,
+        "description": "Martin List Review",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/21/2020",
+        "hours": 0.5,
+        "description": "Pending Items Update",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "All-CSE Meeting of the Minds ",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "hours": 0.5,
+        "description": "Sam's Club Offline Cpature",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "hours": 0.5,
+        "description": "Shiv Follow Up",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "hours": 0.5,
+        "description": "Martin Document",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "hours": 0.4166666666666667,
+        "description": "Martin List Discussion",
+        "type": "Internal Meetings",
+        "account": "ClaroPay",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "hours": 0.5,
+        "description": "Forgot Password Scoping",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "hours": 0.4166666666666667,
+        "description": "CSE Handoff Discussion",
+        "type": "Internal Meetings",
+        "account": "Raymour & Flanigan",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/22/2020",
+        "hours": 1,
+        "description": "Training Session",
+        "type": "Business Review Call",
+        "account": "Alaska Airlines",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "hours": 0.25,
+        "description": "Deion/Bob Request",
+        "type": "Internal Meetings",
+        "account": "Norton Software",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "hours": 1.25,
+        "description": "Forgot Password Flow",
+        "type": "Onboarding: Events Creation",
+        "account": "Sam's Club",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "R&F Internal",
+        "account": "Raymour & Flanigan",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "hours": 0.5,
+        "description": "Event Scoping",
+        "type": "Internal Meetings",
+        "account": "Raymour & Flanigan",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "hours": 0.5,
+        "description": "Team Sync",
+        "type": "Internal Meetings",
+        "account": "ClaroPay",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Collin 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "hours": 1,
+        "description": "Renewal Flow Check",
+        "type": "Production Support",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "hours": 1.5,
+        "description": "Onboarding Summary Document",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/23/2020",
+        "recordType": "Internal",
+        "hours": 0.75,
+        "description": "CSE West Team Sync",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    }
+]

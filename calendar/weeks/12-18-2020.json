@@ -1,0 +1,72 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/18/2020",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/18/2020",
+        "hours": 1,
+        "description": "Renewal Flow SPC",
+        "type": "Onboarding: Events Creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/18/2020",
+        "hours": 1,
+        "description": "Event Review w/ Patty",
+        "type": "Internal Meetings",
+        "account": "Raymour & Flanigan",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/18/2020",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/18/2020",
+        "hours": 1,
+        "description": "SHADOW Update",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/18/2020",
+        "hours": 0.75,
+        "description": "Zac / Collin Annual Review",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "12/18/2020",
+        "hours": 2.5,
+        "description": "Security Training",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    }
+]

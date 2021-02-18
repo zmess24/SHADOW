@@ -15,21 +15,35 @@ module.exports = {
         { title: "SC", value: "Sam's Club"}
     ],
     types: [
-        { title: "Ongoing: Events Creation", value: "Ongoing: Events Creation", recordType: "External" },
-        { title: "Ongoing: Dashboards", value: "Ongoing: Dashboards/Alerts/Report Creation", recordType: "External" },
-        { title: "Ongoing: PII", value: "Ongoing: PII Remediation", recordType: "External" },
-        { title: "Onboarding: Events Creation", value: "Onboarding: Events Creation", recordType: "External" },
-        { title: "Onboarding: Dashboards", value: "Onboarding: Dashboards/Alerts/Report Creation", recordType: "External" },
-        { title: "Ongoing: AM", value: "Ongoing: Account Maintenance", recordType: "External" },
-        { title: "Technical Call", value: "Technical Call", recordType: "External" },
+        { title: "Administrative Work & Status Call", value: "Administrative Work & Status Call", recordType: "External" },
         { title: "Business Review Call", value: "Business Review Call", recordType: "External" },
-        { title: "Kickoff Call", value: "Kickoff Call", recordType: "External" },
+        { title: "Call Observation", value: "Call Observation", recordType: "External" },
+        { title: "Consultative Call", value: "Consultative Call", recordType: "External" },
+        { title: "Executive Business Review", value: "Executive Business Review", recordType: "External" },
+        { title: "Insights & Enablement", value: "Guided Insights & Enablement", recordType: "External" },
+        { title: "Question Emails", value: "How To Question Emails", recordType: "External" },
+        { title: "Insights Brief", value: "Insights Brief", recordType: "External" },
+        { title: "Introductory Training", value: "Introductory Training", recordType: "External" },
+        { title: "Kickoff Call", value: "Kickoff call", recordType: "External" },
+        { title: "Monthly Ongoing Enablement", value: "Monthly Ongoing Enablement", recordType: "External" },
+        { title: "Onboarding: Dashboards", value: "Onboarding: Dashboard/reports/alerts creation", recordType: "External" },
+        { title: "Onboarding: Event creation", value: "Onboarding: Events creation", recordType: "External" },
+        { title: "Onboarding: Integration Work", value: "Onboarding: Integration Work", recordType: "External" },
+        { title: "Onboarding: Native Event Creation", value: "Onboarding: Native Event Creation", recordType: "External" },
+        { title: "Onboarding: Native PII Remediation", value: "Onboarding: Native PII Remediation", recordType: "External" },
+        { title: "Onboarding: PII Remediation", value: "Onboarding: PII Remediation", recordType: "External" },
+        { title: "Ongoing: AM", value: "Ongoing: Account Maintenance", recordType: "External" },
+        { title: "Ongoing: Dashboards", value: "Ongoing: Dashboard/reports/alerts creation", recordType: "External" },
+        { title: "Ongoing: Event creation", value: "Ongoing: Events creation", recordType: "External" },
+        { title: "Ongoing: Integration Work", value: "Ongoing: Integration Work", recordType: "External" },
+        { title: "Ongoing: Native Event Creation", value: "Ongoing: Native Event Creation", recordType: "External" },
+        { title: "Ongoing: Native PII Remediation", value: "Ongoing: Native PII Remediation", recordType: "External" },
+        { title: "Ongoing: PII Remediation", value: "Ongoing: PII Remediation", recordType: "External" },
+        { title: "Ongoing: Use Case Based Training", value: "Ongoing: Use Case Based Training", recordType: "External" },
         { title: "Onsite Visit", value: "Onsite Visit", recordType: "External" },
-        { title: "Training", value: "Value-Based Training", recordType: "External" },
-        { title: "Reports/Scoping/Analysis", value: "Reports/Scoping/Analysis", recordType: "External" },
-        { title: "Office Hours/Value Added Call", value: "Office Hours/Value Added Call", recordType: "External" },
+        { title: "Proactive Monitoring Insights", value: "Proactive Monitoring Insights", recordType: "External" },
         { title: "Production Support", value: "Production Support", recordType: "External" },
-        { title: "Status/AM call", value: "Status/AM call", recordType: "External" },
+        { title: "Technical call", value: "Technical call", recordType: "External" },
         { title: "Vacation", value: "Vacation", recordType: "Internal" },
         { title: "Holiday", value: "Holiday", recordType: "Internal" },
         { title: "Illness", value: "Illness", recordType: "Internal" },
@@ -313,7 +327,7 @@ module.exports = {
             account: "ClaroPay",
             type: "Business Review Call"
         },
-         {
+        {
             description: "Sams Internal Sync",
             recordType: "External",
             account: "Sam's Club",
@@ -324,34 +338,44 @@ module.exports = {
             recordType: "Internal",
             account: "Raymour & Flanigan",
             type: "Internal Meetings"
+        },
+        {
+            description: "Sam's CSE Internal Touchpoint",
+            recordType: "Interal",
+            account: "Sam's Club",
+            type: "Internal Meetings"
+        },
+        {
+            description: "CSE Strategic Initiatives",
+            recordType: "Interal",
+            account: "Sam's Club",
+            type: "Internal Meetings"
+        },
+        {
+            description: "Internal Alaska Sync",
+            recordType: "Interal",
+            account: "Alaska Airlines",
+            type: "Internal Meetings"
+        },
+        {
+            description: "Sam's Club CSE - Weekly Alignment",
+            recordType: "Interal",
+            account: "Sam's Club",
+            type: "Internal Meetings"
+        },
+        {
+            description: "Quantum Metric | Sam's - Analytics Sync",
+            recordType: "External",
+            account: "Sam's Club",
+            type: "Administrative Work & Status Call"
+        }, {
+            description: "Zac<>Hugo:: QM/HITSS Connect",
+            recordType: "External",
+            account: "ClaroPay",
+            type: "Business Review Call"
         }
     ],
 }
 
 
 
-// business review call
-// kickoff call
-// client call
-// onboarding: dashboard/reports/alerts creation
-// onboarding: events creation
-// onboarding: integration work
-// onboarding: native event creation
-// onboarding: native pii remediation
-// onboarding: pii remediation
-// onboarding training
-// ongoing: account maintenance
-// ongoing: dashboard/reports/alerts creation
-// ongoing: events creation
-// ongoing: integration work
-// ongoing: native event creation
-// ongoing: native pii remediation
-// ongoing: pii remediation
-// onsite visit
-// production support
-// qbr
-// reports/scoping
-// research - existing customer analysis
-// research - pov analysis
-// Status/AM call
-// technical call
