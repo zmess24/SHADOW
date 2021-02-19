@@ -39,7 +39,6 @@ In Terminal:
 
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 ```
 
 #### Brew Doctor
@@ -48,7 +47,6 @@ In Terminal:
 
 ```
 brew doctor
-
 ```
 
 ### 3. Node.js
