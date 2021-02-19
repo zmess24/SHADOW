@@ -259,11 +259,11 @@ In order for SHADOW to properly parse your events, you will need to format them 
 #### Event Dictation Examples
 
 ```
-TMAM - Ongoing: Event Creation
-Wynn - Production Support
-TB - Business Review Call
-HL - Reports/Scoping/Analysis
-AB - Onboarding: Dashboards
+TMAM - Ongoing: Event Creation ; Activity Description
+Wynn - Production Support ; Activity Description
+TB - Business Review Call ; Activity Description
+HL - Reports/Scoping/Analysis ; Activity Description
+AB - Onboarding: Dashboards ; Activity Description
 ```
 #### Google Calendar Examples
 
