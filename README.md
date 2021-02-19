@@ -251,19 +251,20 @@ SHADOW relies on downloading events/meetings from your Google Calendar and parsi
 
 In order for SHADOW to properly parse your events, you will need to format them using the following dictation: 
 
-`ACCOUNT ACRONYM - TYPE OF ACTIVITY`.
+`ACCOUNT ACRONYM - TYPE OF ACTIVITY ; DESCRIPTION`.
 
 * *ACCOUNT ACRONYM* should be replaced with a account title from the `accounts` array within `calendar/config.json`.
 * *TYPE OF ACTIVITY* should be replaced with an activity type from the `types` array within `calendar/config.json`, which maps to specific activity types within SF.
+* *DESCRIPTION OF ACTIVITY* should be replaced with a description of the work done to fill in the description field within SF.
 
 #### Event Dictation Examples
 
 ```
-TMAM - Ongoing: Event Creation ; Activity Description
-Wynn - Production Support ; Activity Description
-TB - Business Review Call ; Activity Description
-HL - Reports/Scoping/Analysis ; Activity Description
-AB - Onboarding: Dashboards ; Activity Description
+TMAM - Ongoing: Event Creation ; Description
+Wynn - Production Support ; Description
+TB - Business Review Call ; Description
+HL - Reports/Scoping/Analysis ; Description
+AB - Onboarding: Dashboards ; Description
 ```
 #### Google Calendar Examples
 
