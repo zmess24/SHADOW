@@ -1,0 +1,132 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "hours": 0.5,
+        "description": "Onboarding & Pagar Servicio Dashboards",
+        "type": "Ongoing: Dashboard/reports/alerts creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Weekly Checkpoint Quantum Metric - Claro Pay",
+        "account": "ClaroPay",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Field Eng Showcase",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "recordType": "Internal",
+        "hours": 0.8333333333333334,
+        "description": "All-CSE Meeting of the Minds ",
+        "account": "CS Internal Activities",
+        "type": "Group/Company Meeting"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "hours": 1.1666666666666667,
+        "description": "Onboarding & Pagar Servicio Dashboards",
+        "type": "Ongoing: Dashboard/reports/alerts creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "hours": 0.5,
+        "description": "Azure Integration Research & Email",
+        "type": "Production Support",
+        "account": "Herbalife",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "QM<> Herbalife: Monthly Touch Point",
+        "account": "Herbalife",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "recordType": "Interal",
+        "hours": 0.5,
+        "description": "Internal Alaska Sync",
+        "account": "Alaska Airlines",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "hours": 0.5,
+        "description": "View Source In Session",
+        "type": "Business Review Call",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "hours": 0.5,
+        "description": "Marina Cart NS & Window Script events.",
+        "type": "Ongoing: Events creation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Quantum Metric | Sam's - Analytics Sync",
+        "account": "Sam's Club",
+        "type": "Administrative Work & Status Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/16/2021",
+        "hours": 0.5,
+        "description": "NCX Team Data Discrepency",
+        "type": "Business Review Call",
+        "account": "Herbalife",
+        "recordType": "External"
+    }
+]

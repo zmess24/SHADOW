@@ -1,0 +1,342 @@
+[
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "hours": 1,
+        "description": "Liquidity Information Session",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "hours": 1,
+        "description": "Marina Follow Up, Fraud Dashboard, Headless Browser Event",
+        "type": "Production Support",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "hours": 0.5,
+        "description": "Martin Onboarding Update",
+        "type": "How To Question Emails",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "hours": 0.75,
+        "description": "Martin Onboarding Update",
+        "type": "How To Question Emails",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "hours": 0.5,
+        "description": "Pay Services Tax Event",
+        "type": "Ongoing: Events creation",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "QM <> Wynn: Weekly Status Call",
+        "account": "Wynn Resorts",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "hours": 0.5,
+        "description": "Aggregar Dinero Funnel Scoping",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "hours": 0.25,
+        "description": "Upgrade Room Event Scoping",
+        "type": "Production Support",
+        "account": "Wynn Resorts",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Zac <> Collin 1:1",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/17/2021",
+        "recordType": "Internal",
+        "hours": 0.75,
+        "description": "CSE West Team Sync",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "recordType": "Interal",
+        "hours": 0.4166666666666667,
+        "description": "CSE Strategic Initiatives",
+        "account": "Sam's Club",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "Android Health Dashboard",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "DevOps Enablement",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "Service View Call w/ Alejandro, Daniel, and Juan Carlos",
+        "type": "Technical call",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "Android Health Dashboard",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "recordType": "External",
+        "hours": 0.5,
+        "description": "Weekly Sync",
+        "account": "Norton Software",
+        "type": "Status/AM call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "QM/Alaska/Flight Changes Follow Up",
+        "type": "Business Review Call",
+        "account": "Alaska Airlines",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "Zac/Francis Touchpoint",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "Skechers Discussion",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.25,
+        "description": "Sync w/ Thomas",
+        "type": "Internal Meetings",
+        "account": "Sam's Club",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 1.25,
+        "description": "Android Health Dashboard",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.75,
+        "description": "Forgot Password & LifeLock Payment Order",
+        "type": "Onboarding: Native PII Remediation",
+        "account": "Norton Software",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/18/2021",
+        "hours": 0.5,
+        "description": "Martin Missing Sessions",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/19/2021",
+        "recordType": "Internal",
+        "hours": 0.5,
+        "description": "Email Batching",
+        "account": "CS Internal Activities",
+        "type": "Internal Meetings"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/19/2021",
+        "hours": 1,
+        "description": "Monthly Product Meeting Recording",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/19/2021",
+        "recordType": "External",
+        "hours": 1,
+        "description": "Zac<>Hugo:: QM/HITSS Connect",
+        "account": "ClaroPay",
+        "type": "Business Review Call"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/19/2021",
+        "hours": 0.5,
+        "description": "UAT Session Deletion Query",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/19/2021",
+        "hours": 1.25,
+        "description": "Refactored Native Health Check Dashboard",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/19/2021",
+        "hours": 1,
+        "description": "Missing Diego Slim Session",
+        "type": "Production Support",
+        "account": "ClaroPay",
+        "recordType": "External"
+    },
+    {
+        "rep": "Zac Messinger",
+        "repType": "Customer Success Engineer",
+        "activityDate": "02/19/2021",
+        "hours": 1.5,
+        "description": "FOCUS PII Automated Checker & Configuration Template Work",
+        "type": "Internal Meetings",
+        "account": "CS Internal Activities",
+        "recordType": "Internal"
+    }
+]

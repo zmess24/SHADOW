@@ -373,7 +373,13 @@ module.exports = {
             recordType: "External",
             account: "ClaroPay",
             type: "Business Review Call"
-        }
+        }, 
+        {
+            description: "Weekly Checkpoint Quantum Metric - Claro Pay",
+            recordType: "External",
+            account: "ClaroPay",
+            type: "Business Review Call"
+        }, 
     ],
 }
 

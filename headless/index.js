@@ -26,7 +26,7 @@ async function logSFHours(timeMin) {
         await page.selectRecordType(activites[i].recordType);
         await page.waitForSelector('div.slds-section__content textarea[required]');
         await page.createEntry(activites[i]);
-        await page.click('button[title="Save & New"]');
+        await page.click('button[name="SaveAndNew"]');
     };
 
     // Close the puppatere instance.
