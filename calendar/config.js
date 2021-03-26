@@ -2,17 +2,16 @@ module.exports = {
     rep: "Zac Messinger",
     repType: "Customer Success Engineer",
     accounts: [
-        { title: 'TMAM', value: "Ticketmaster / Live Nation" },
         { title: 'HL', value: "Herbalife" },
         { title: 'AB', value: "Allbound" },
         { title: 'Wynn', value: "Wynn Resorts" },
         { title: 'TB', value: "Taco Bell" },
         { title: 'CS', value: "CS Internal Activities" },
         { title: 'CP', value: "ClaroPay"},
-        { title: 'RF', value: "Raymour & Flanigan"},
         { title: "NL", value: "Norton Software"},
         { title: "AA", value: "Alaska Airlines"},
-        { title: "SC", value: "Sam's Club"}
+        { title: "SC", value: "Sam's Club"},
+        { title: "SK", value: "Skechers" }
     ],
     types: [
         { title: "Administrative Work & Status Call", value: "Administrative Work & Status Call", recordType: "External" },
@@ -54,7 +53,8 @@ module.exports = {
         { title: "Presales & Sales", value: "Presales & Sales", recordType: "Internal" },
         { title: "Product Meetings", value: "Product Meetings", recordType: "Internal" },
         { title: "HR", value: "HR", recordType: "Internal" },
-        { title: "Product Support", value: "Product Support", recordType: "Internal" }
+        { title: "Product Support", value: "Product Support", recordType: "Internal" },
+        { title: "SIK", value: "Strategic Initiatives Work", recordType: "Internal" }
     ],
     meetings: [
         {
@@ -76,7 +76,7 @@ module.exports = {
             type: "Internal Meetings"
         },
         { 
-            description: "Taco Bell / Quantum Metric Status (Bi-Weekly)", 
+            description: "QM<>TB:: Monthly Checkpoint", 
             recordType: "External", 
             account: "Taco Bell",
             type: "Business Review Call"  
@@ -100,9 +100,9 @@ module.exports = {
             type: "Business Review Call" 
         },
         { 
-            description: "Zac <> Surge: TMAM Debrief ", 
-            recordType: "Internal", 
-            account: "Ticketmaster / Live Nation",
+            description: "Skechers | Quantum Metric - Weekly Sync", 
+            recordType: "External", 
+            account: "Skechers",
             type: "Business Review Call"  
         },
         { 
@@ -348,7 +348,7 @@ module.exports = {
         {
             description: "CSE Strategic Initiatives",
             recordType: "Interal",
-            account: "Sam's Club",
+            account: "CS Internal Activities",
             type: "Internal Meetings"
         },
         {
