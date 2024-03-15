@@ -55,6 +55,7 @@ class CustomPage {
 		await this.type('input[type="password"]', password, { delay: 20 });
 		await this.click("text=Next");
 		// Send 2FA Code
+		console.log(blue("Sending 2FA Code..."));
 		await this.waitForSelector('div[data-primary-action-label="Send"] button:first-child', { visible: true });
 		await this.wait(2000);
 		await this.click('div[data-primary-action-label="Send"] button:first-child', { delay: 20 });

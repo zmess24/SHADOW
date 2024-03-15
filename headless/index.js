@@ -17,8 +17,8 @@ async function logSFHours(timeMin) {
 	await page.goto("https://qm.lightning.force.com/lightning/o/Customer_Success_Activity__c/list?filterName=Recent");
 	await page.login(username, password);
 	console.log(blue("Opening `Customer Success Actities` page"));
-	// await page.waitForSelector('a[title="New"]');
-	// await page.click('a[title="New"]');
+	await page.waitForSelector('a[title="New"]');
+	await page.click('a[title="New"]');
 
 	// // Loop over each activity, and create a new SF entry.
 	// for (var i = 0; i < activites.length; i++) {
