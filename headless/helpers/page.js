@@ -14,9 +14,7 @@ class CustomPage {
 
 		return new Proxy(customPage, {
 			get: (target, property, receiver) => {
-				if (target[property]) {
-					return target[property];
-				}
+				if (target[property]) return target[property];
 
 				let value = browser[property];
 				if (value instanceof Function) {
@@ -68,6 +66,22 @@ class CustomPage {
 		console.log(blue("Login success"));
 	}
 
+	async findActiviyInputs() {
+		return document
+			.querySelector(".oneRecordActionWrapper records-modal-lwc-detail-panel-wrapper")
+			.shadowRoot.querySelector("records-record-layout-event-broker")
+			.shadowRoot.querySelector("slot")
+			.assignedNodes()[0]
+			.shadowRoot.querySelector("records-base-record-form")
+			.shadowRoot.querySelector("records-lwc-record-layout")
+			.shadowRoot.querySelector('[class*="forcegenerated-record-layout"]')
+			.shadowRoot.querySelector("records-record-layout-block")
+			.shadowRoot.querySelector("slot")
+			.assignedNodes()[0]
+			.shadowRoot.querySelector("slot")
+			.assignedNodes();
+	}
+
 	async selectRecordType(type) {
 		try {
 			await this.waitFor(".slds-radio--faux");
@@ -82,13 +96,14 @@ class CustomPage {
 	}
 
 	async findInput(name) {
-		const inputHandle = await this.evaluateHandle((name) => {
+		const inputHandle = await this.evaluateHandle(async (name) => {
 			let map = { Account: 0, Date: 2, Hours: 4, Type: 6, Desc: 8 };
+			let nodes = await findActiviyInputs();
 			let item = document
-				.querySelector(".oneRecordActionWrapper records-lwc-detail-panel")
-				.shadowRoot.querySelector("records-base-record-form")
-				.shadowRoot.querySelector("records-lwc-record-layout")
-				.shadowRoot.querySelector('[class*="forcegenerated-record-layout"]')
+				.querySelector(".oneRecordActionWrapper records-modal-lwc-detail-panel-wrapper")
+				.shadowRoot.querySelector("records-record-layout-event-broker")
+				.shadowRoot.querySelector("slot")
+				.shadowRoot.querySelector("records-lwc-detail-panel")
 				.shadowRoot.querySelector("force-record-layout-block")
 				.querySelectorAll(".slds-form__item")
 				[map[name]].querySelector('[data-input-element-id="input-field"]');
